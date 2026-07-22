@@ -3,7 +3,7 @@ Projeto visa simular um possível cliente/empresário que trabalha na parte econ
 
 ## Estruturação
 
-<div>
+'''
 -> Data_frame_Market.csv
 -> Início.py
 -> Perg_1.py
@@ -14,6 +14,6 @@ Projeto visa simular um possível cliente/empresário que trabalha na parte econ
 -> Perg_6.py
 -> Perg_7.py
 -> README.md
-<div>
+'''
 
 
