@@ -1,0 +1,1001 @@
+ID,filial,cidade,tipo_cliente,tipo,preço,quantidade,data,horário,pagamento,custo,rendimento,avaliação
+101-17-6199,Assaí,Taguatinga,Normal,Alimentos e Bedidas,45.79,7.00,3/13/2019,19.44,Crédito,320.53,16.03,7.00
+101-81-4070,Carrefour,Sobradinho,Membro,Saúde e Beleza,62.82,2.00,1/17/2019,12.36,Pix,125.64,6.28,4.90
+102-06-2002,Carrefour,Sobradinho,Membro,Esportes,25.25,5.00,3/20/2019,17.52,Dinheiro,126.25,6.31,6.10
+102-77-2261,Carrefour,Sobradinho,Membro,Saúde e Beleza,65.31,7.00,3/5/2019,18.02,Crédito,457.17,22.86,4.20
+105-10-6182,Assaí,Taguatinga,Membro,Acessórios,21.48,2.00,2/27/2019,12.22,Pix,42.96,2.15,6.60
+105-31-1824,Assaí,Taguatinga,Membro,Esportes,69.52,7.00,2/1/2019,15.1,Crédito,486.64,24.33,8.50
+106-35-6779,Assaí,Taguatinga,Membro,Utensílios paraCasa,44.34,2.00,3/27/2019,11.26,Dinheiro,88.68,4.43,5.80
+109-28-2512,Big Box,Ceilândia,Membro,Acessórios,97.61,6.00,1/7/2019,15.01,Pix,585.66,29.28,9.90
+109-86-4363,Big Box,Ceilândia,Membro,Esportes,60.08,7.00,2/14/2019,11.36,Crédito,420.56,21.03,4.50
+110-05-6330,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,39.43,6.00,3/25/2019,20.18,Crédito,236.58,11.83,9.40
+110-48-7033,Big Box,Ceilândia,Membro,Acessórios,32.62,4.00,1/29/2019,14.12,Dinheiro,130.48,6.52,9.00
+114-35-5271,Big Box,Ceilândia,Normal,Tecnologia,57.91,8.00,2/7/2019,15.06,Dinheiro,463.28,23.16,8.10
+115-38-7388,Carrefour,Sobradinho,Membro,Acessórios,10.18,8.00,3/30/2019,12.51,Crédito,81.44,04.07,9.50
+115-99-4379,Big Box,Ceilândia,Membro,Acessórios,54.73,7.00,3/14/2019,19.02,Crédito,383.11,19.16,8.50
+118-62-1812,Carrefour,Sobradinho,Membro,Utensílios paraCasa,78.38,4.00,3/24/2019,17.56,Dinheiro,313.52,15.68,7.90
+120-06-4233,Carrefour,Sobradinho,Normal,Tecnologia,30.61,6.00,3/12/2019,20.36,Dinheiro,183.66,9.18,9.30
+120-54-2248,Big Box,Ceilândia,Normal,Alimentos e Bedidas,28.86,5.00,1/22/2019,18.08,Crédito,144.30,7.22,8.00
+122-61-9553,Carrefour,Sobradinho,Normal,Tecnologia,51.32,9.00,3/14/2019,19.33,Dinheiro,461.88,23.09,5.60
+123-19-1176,Assaí,Taguatinga,Membro,Saúde e Beleza,58.22,8.00,1/27/2019,20.33,Pix,465.76,23.29,8.40
+123-35-4896,Carrefour,Sobradinho,Normal,Esportes,46.66,9.00,2/17/2019,19.11,Pix,419.94,21.00,5.30
+124-31-1458,Assaí,Taguatinga,Membro,Tecnologia,79.59,3.00,1/8/2019,14.3,Dinheiro,238.77,11.94,6.60
+125-45-2293,Assaí,Taguatinga,Normal,Acessórios,99.10,6.00,1/19/2019,13.11,Dinheiro,594.60,29.73,4.20
+126-54-1082,Assaí,Taguatinga,Membro,Utensílios paraCasa,21.54,9.00,1/7/2019,11.44,Crédito,193.86,9.69,8.80
+127-47-6963,Assaí,Taguatinga,Normal,Saúde e Beleza,51.71,4.00,3/9/2019,13.53,Crédito,206.84,10.34,9.80
+129-29-8530,Assaí,Taguatinga,Membro,Esportes,62.62,5.00,3/10/2019,19.15,Pix,313.10,15.66,7.00
+130-67-4723,Assaí,Taguatinga,Membro,Alimentos e Bedidas,48.50,6.00,1/11/2019,13.57,Pix,291.00,14.55,9.40
+130-98-8941,Carrefour,Sobradinho,Normal,Acessórios,64.26,7.00,2/9/2019,10,Dinheiro,449.82,22.49,5.70
+131-15-8856,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,72.52,8.00,3/30/2019,19.26,Crédito,580.16,29.01,4.00
+131-70-8179,Assaí,Taguatinga,Membro,Saúde e Beleza,92.09,3.00,2/17/2019,16.27,Dinheiro,276.27,13.81,4.20
+132-23-6451,Assaí,Taguatinga,Membro,Saúde e Beleza,20.97,5.00,1/4/2019,13.21,Dinheiro,104.85,5.24,7.80
+132-32-9879,Big Box,Ceilândia,Membro,Tecnologia,93.96,4.00,3/9/2019,18,Dinheiro,375.84,18.79,9.50
+133-14-7229,Carrefour,Sobradinho,Normal,Saúde e Beleza,62.87,2.00,1/1/2019,11.43,Dinheiro,125.74,6.29,5.00
+133-77-3154,Big Box,Ceilândia,Membro,Acessórios,60.18,4.00,2/16/2019,18.04,Crédito,240.72,12.04,9.40
+134-54-4720,Big Box,Ceilândia,Normal,Tecnologia,42.42,8.00,1/30/2019,13.58,Pix,339.36,16.97,5.70
+134-75-2619,Assaí,Taguatinga,Membro,Tecnologia,19.32,7.00,3/25/2019,18.51,Dinheiro,135.24,6.76,6.90
+135-13-8269,Big Box,Ceilândia,Membro,Alimentos e Bedidas,78.88,2.00,1/26/2019,16.04,Dinheiro,157.76,7.89,9.10
+135-84-8019,Assaí,Taguatinga,Normal,Acessórios,77.93,9.00,2/27/2019,16.1,Pix,701.37,35.07,7.60
+136-08-6195,Assaí,Taguatinga,Normal,Utensílios paraCasa,69.96,8.00,2/15/2019,17.01,Crédito,559.68,27.98,6.40
+137-63-5492,Carrefour,Sobradinho,Normal,Tecnologia,58.76,10.00,1/29/2019,14.26,Pix,587.60,29.38,9.00
+137-74-8729,Carrefour,Sobradinho,Normal,Acessórios,12.19,8.00,3/13/2019,12.47,Pix,97.52,4.88,6.80
+138-17-5109,Assaí,Taguatinga,Membro,Utensílios paraCasa,89.21,9.00,1/15/2019,15.42,Crédito,802.89,40.14,6.50
+139-20-0155,Big Box,Ceilândia,Membro,Tecnologia,40.30,10.00,1/24/2019,17.37,Crédito,403.00,20.15,7.00
+139-32-4183,Assaí,Taguatinga,Membro,Esportes,97.48,9.00,3/14/2019,14.19,Pix,877.32,43.87,7.40
+139-52-2867,Carrefour,Sobradinho,Normal,Acessórios,22.51,7.00,2/13/2019,10.5,Crédito,157.57,7.88,4.80
+142-63-6033,Big Box,Ceilândia,Normal,Utensílios paraCasa,92.36,5.00,3/20/2019,19.17,Pix,461.80,23.09,4.90
+142-72-4741,Carrefour,Sobradinho,Membro,Acessórios,93.20,2.00,2/28/2019,18.37,Crédito,186.40,9.32,6.00
+144-51-6085,Assaí,Taguatinga,Membro,Utensílios paraCasa,70.74,4.00,1/5/2019,16.05,Crédito,282.96,14.15,4.40
+145-94-9061,Big Box,Ceilândia,Normal,Alimentos e Bedidas,88.36,5.00,1/25/2019,19.48,Dinheiro,441.80,22.09,9.60
+146-09-5432,Assaí,Taguatinga,Membro,Alimentos e Bedidas,35.04,9.00,2/9/2019,19.17,Pix,315.36,15.77,4.60
+148-41-7930,Carrefour,Sobradinho,Normal,Saúde e Beleza,99.96,7.00,1/23/2019,10.33,Dinheiro,699.72,34.99,6.10
+148-82-2527,Carrefour,Sobradinho,Membro,Utensílios paraCasa,12.12,10.00,3/5/2019,13.44,Crédito,121.20,06.06,8.40
+149-14-0304,Carrefour,Sobradinho,Membro,Saúde e Beleza,28.50,8.00,2/6/2019,14.24,Dinheiro,228.00,11.40,6.60
+149-15-7606,Big Box,Ceilândia,Membro,Esportes,37.32,9.00,3/6/2019,15.31,Pix,335.88,16.79,5.10
+149-61-1929,Assaí,Taguatinga,Normal,Esportes,64.19,10.00,1/19/2019,14.08,Crédito,641.90,32.10,6.70
+149-71-6266,Big Box,Ceilândia,Membro,Esportes,78.07,9.00,1/28/2019,12.43,Dinheiro,702.63,35.13,4.50
+150-89-8043,Assaí,Taguatinga,Normal,Esportes,44.65,3.00,2/14/2019,15.04,Dinheiro,133.95,6.70,6.20
+151-16-1484,Assaí,Taguatinga,Membro,Tecnologia,32.25,4.00,2/13/2019,12.38,Pix,129.00,6.45,6.50
+151-27-8496,Carrefour,Sobradinho,Normal,Tecnologia,56.13,4.00,1/19/2019,11.43,Pix,224.52,11.23,8.60
+151-33-7434,Big Box,Ceilândia,Normal,Alimentos e Bedidas,67.77,1.00,2/4/2019,20.43,Crédito,67.77,3.39,6.50
+152-03-4217,Big Box,Ceilândia,Normal,Utensílios paraCasa,11.28,9.00,3/17/2019,11.55,Crédito,101.52,05.08,4.30
+152-08-9985,Big Box,Ceilândia,Membro,Saúde e Beleza,64.36,9.00,3/12/2019,12.09,Crédito,579.24,28.96,8.60
+152-68-2907,Assaí,Taguatinga,Normal,Alimentos e Bedidas,52.20,3.00,2/15/2019,13.3,Crédito,156.60,7.83,9.50
+153-58-4872,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,74.89,4.00,3/1/2019,15.32,Pix,299.56,14.98,4.20
+154-74-7179,Big Box,Ceilândia,Normal,Esportes,54.45,1.00,2/26/2019,19.24,Pix,54.45,2.72,7.90
+154-87-7367,Carrefour,Sobradinho,Normal,Utensílios paraCasa,65.26,8.00,3/15/2019,14.04,Pix,522.08,26.10,6.30
+155-45-3814,Carrefour,Sobradinho,Membro,Tecnologia,88.55,8.00,3/19/2019,15.29,Pix,708.40,35.42,4.70
+156-20-0370,Big Box,Ceilândia,Normal,Tecnologia,25.45,1.00,3/10/2019,18.1,Crédito,25.45,1.27,5.10
+156-95-3964,Assaí,Taguatinga,Normal,Alimentos e Bedidas,55.39,4.00,3/25/2019,15.19,Pix,221.56,11.08,8.00
+157-13-5295,Assaí,Taguatinga,Membro,Saúde e Beleza,51.94,10.00,3/9/2019,18.24,Pix,519.40,25.97,6.50
+160-22-2687,Assaí,Taguatinga,Membro,Saúde e Beleza,95.95,5.00,1/23/2019,14.21,Pix,479.75,23.99,8.80
+162-48-8011,Assaí,Taguatinga,Membro,Alimentos e Bedidas,44.59,5.00,2/10/2019,15.1,Dinheiro,222.95,11.15,8.50
+162-65-8559,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,68.98,1.00,1/21/2019,20.13,Dinheiro,68.98,3.45,4.80
+163-56-7055,Carrefour,Sobradinho,Membro,Acessórios,48.71,1.00,3/26/2019,19.2,Dinheiro,48.71,2.44,4.10
+166-19-2553,Assaí,Taguatinga,Membro,Esportes,89.06,6.00,1/18/2019,17.26,Dinheiro,534.36,26.72,9.90
+169-52-4504,Assaí,Taguatinga,Normal,Tecnologia,15.69,3.00,3/14/2019,14.13,Crédito,47.07,2.35,5.80
+172-42-8274,Big Box,Ceilândia,Normal,Tecnologia,38.27,2.00,3/2/2019,18.18,Crédito,76.54,3.83,5.80
+173-50-1108,Big Box,Ceilândia,Membro,Esportes,20.18,4.00,2/13/2019,12.14,Crédito,80.72,04.04,5.00
+173-57-2300,Carrefour,Sobradinho,Membro,Esportes,72.88,2.00,3/13/2019,12.51,Dinheiro,145.76,7.29,6.10
+173-82-9529,Big Box,Ceilândia,Normal,Acessórios,37.95,10.00,1/26/2019,14.51,Dinheiro,379.50,18.98,9.70
+174-36-3675,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,99.37,2.00,2/14/2019,17.29,Dinheiro,198.74,9.94,5.20
+174-64-0215,Big Box,Ceilândia,Normal,Esportes,69.74,10.00,3/5/2019,17.49,Crédito,697.40,34.87,8.90
+174-75-0888,Big Box,Ceilândia,Normal,Tecnologia,21.58,9.00,3/14/2019,12.32,Dinheiro,194.22,9.71,7.30
+175-54-2529,Assaí,Taguatinga,Membro,Alimentos e Bedidas,22.17,8.00,3/3/2019,17.01,Crédito,177.36,8.87,9.60
+176-64-7711,Big Box,Ceilândia,Normal,Alimentos e Bedidas,32.32,3.00,3/27/2019,19.11,Crédito,96.96,4.85,4.30
+176-78-1170,Carrefour,Sobradinho,Membro,Saúde e Beleza,33.81,3.00,1/26/2019,15.11,Pix,101.43,05.07,7.30
+181-82-6255,Big Box,Ceilândia,Normal,Utensílios paraCasa,16.37,6.00,2/8/2019,10.58,Dinheiro,98.22,4.91,7.00
+181-94-6432,Carrefour,Sobradinho,Membro,Acessórios,69.33,2.00,2/5/2019,19.05,Pix,138.66,6.93,9.70
+182-52-7000,Assaí,Taguatinga,Membro,Esportes,27.04,4.00,1/1/2019,20.26,Pix,108.16,5.41,6.90
+182-69-8360,Big Box,Ceilândia,Normal,Tecnologia,23.65,4.00,1/30/2019,13.32,Crédito,94.60,4.73,4.00
+182-88-2763,Big Box,Ceilândia,Membro,Alimentos e Bedidas,79.91,3.00,3/20/2019,19.28,Crédito,239.73,11.99,5.00
+183-21-3799,Carrefour,Sobradinho,Normal,Tecnologia,77.63,9.00,2/19/2019,15.14,Pix,698.67,34.93,7.20
+183-56-6882,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,99.42,4.00,2/6/2019,10.42,Pix,397.68,19.88,7.50
+186-09-3669,Carrefour,Sobradinho,Membro,Saúde e Beleza,81.51,1.00,1/22/2019,10.57,Pix,81.51,04.08,9.20
+186-43-8965,Assaí,Taguatinga,Membro,Utensílios paraCasa,47.68,2.00,2/24/2019,10.1,Crédito,95.36,4.77,4.10
+186-71-5196,Assaí,Taguatinga,Membro,Alimentos e Bedidas,79.54,2.00,3/27/2019,16.3,Pix,159.08,7.95,6.20
+186-79-9562,Big Box,Ceilândia,Normal,Saúde e Beleza,71.77,7.00,3/29/2019,14.06,Dinheiro,502.39,25.12,8.90
+187-83-5490,Assaí,Taguatinga,Membro,Tecnologia,20.77,4.00,1/31/2019,13.47,Dinheiro,83.08,4.15,4.70
+188-55-0967,Big Box,Ceilândia,Membro,Saúde e Beleza,66.47,10.00,1/15/2019,15.01,Crédito,664.70,33.24,5.00
+189-08-9157,Carrefour,Sobradinho,Normal,Acessórios,31.73,9.00,1/8/2019,16.17,Crédito,285.57,14.28,5.90
+189-17-4241,Assaí,Taguatinga,Normal,Acessórios,87.67,2.00,3/10/2019,12.17,Crédito,175.34,8.77,7.70
+189-40-5216,Carrefour,Sobradinho,Normal,Tecnologia,96.37,7.00,1/9/2019,11.4,Dinheiro,674.59,33.73,6.00
+189-52-0236,Assaí,Taguatinga,Normal,Tecnologia,99.55,7.00,3/14/2019,12.07,Dinheiro,696.85,34.84,7.60
+189-55-2313,Carrefour,Sobradinho,Normal,Acessórios,62.18,10.00,1/31/2019,10.33,Pix,621.80,31.09,6.00
+189-98-2939,Carrefour,Sobradinho,Normal,Acessórios,78.55,9.00,3/1/2019,13.22,Dinheiro,706.95,35.35,7.20
+190-14-3147,Big Box,Ceilândia,Normal,Saúde e Beleza,17.97,4.00,2/23/2019,20.43,Pix,71.88,3.59,6.40
+190-59-3964,Big Box,Ceilândia,Membro,Alimentos e Bedidas,47.16,5.00,2/3/2019,14.35,Crédito,235.80,11.79,6.00
+191-10-6171,Big Box,Ceilândia,Normal,Acessórios,39.62,7.00,1/25/2019,13.18,Dinheiro,277.34,13.87,7.50
+191-29-0321,Big Box,Ceilândia,Membro,Acessórios,19.77,10.00,2/27/2019,18.57,Crédito,197.70,9.89,5.00
+192-98-7397,Carrefour,Sobradinho,Normal,Acessórios,12.78,1.00,1/8/2019,14.11,Pix,12.78,0.64,9.50
+195-06-0432,Assaí,Taguatinga,Membro,Utensílios paraCasa,81.01,3.00,1/13/2019,12.55,Crédito,243.03,12.15,9.30
+196-01-2849,Carrefour,Sobradinho,Membro,Acessórios,73.38,7.00,2/10/2019,13.56,Dinheiro,513.66,25.68,9.50
+197-77-7132,Big Box,Ceilândia,Membro,Tecnologia,91.56,8.00,1/12/2019,18.22,Pix,732.48,36.62,6.00
+198-66-9832,Big Box,Ceilândia,Membro,Acessórios,72.04,2.00,2/4/2019,19.38,Dinheiro,144.08,7.20,9.50
+198-84-7132,Big Box,Ceilândia,Membro,Acessórios,40.61,9.00,1/2/2019,13.4,Dinheiro,365.49,18.27,7.00
+199-75-8169,Assaí,Taguatinga,Membro,Esportes,15.81,10.00,3/6/2019,12.27,Crédito,158.10,7.91,8.60
+200-16-5952,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,65.65,2.00,1/17/2019,16.46,Dinheiro,131.30,6.57,6.00
+200-40-6154,Big Box,Ceilândia,Membro,Utensílios paraCasa,65.91,6.00,2/9/2019,11.45,Dinheiro,395.46,19.77,5.70
+201-63-8275,Carrefour,Sobradinho,Membro,Esportes,67.99,7.00,2/17/2019,16.5,Pix,475.93,23.80,5.70
+201-86-2184,Big Box,Ceilândia,Membro,Tecnologia,26.26,7.00,2/2/2019,19.4,Dinheiro,183.82,9.19,9.90
+207-73-1363,Big Box,Ceilândia,Normal,Saúde e Beleza,69.51,2.00,3/1/2019,12.15,Pix,139.02,6.95,8.10
+209-61-0206,Assaí,Taguatinga,Normal,Utensílios paraCasa,42.91,5.00,1/5/2019,17.29,Pix,214.55,10.73,6.10
+210-30-7976,Big Box,Ceilândia,Membro,Acessórios,22.32,4.00,3/14/2019,11.16,Pix,89.28,4.46,4.10
+210-57-1719,Big Box,Ceilândia,Normal,Saúde e Beleza,58.24,9.00,2/5/2019,12.34,Dinheiro,524.16,26.21,9.70
+210-67-5886,Carrefour,Sobradinho,Membro,Saúde e Beleza,98.21,3.00,2/5/2019,10.41,Crédito,294.63,14.73,7.80
+210-74-9613,Carrefour,Sobradinho,Normal,Acessórios,97.26,4.00,3/16/2019,15.33,Pix,389.04,19.45,6.80
+211-05-0490,Carrefour,Sobradinho,Membro,Tecnologia,51.92,5.00,3/3/2019,13.42,Dinheiro,259.60,12.98,7.50
+211-30-9270,Carrefour,Sobradinho,Normal,Saúde e Beleza,17.41,5.00,1/28/2019,15.16,Crédito,87.05,4.35,4.90
+212-62-1842,Assaí,Taguatinga,Normal,Alimentos e Bedidas,58.26,6.00,3/28/2019,16.44,Dinheiro,349.56,17.48,9.90
+213-32-1216,Assaí,Taguatinga,Normal,Tecnologia,66.06,6.00,1/23/2019,10.28,Dinheiro,396.36,19.82,7.30
+213-72-6612,Assaí,Taguatinga,Normal,Alimentos e Bedidas,43.25,2.00,3/20/2019,15.56,Dinheiro,86.50,4.33,6.20
+214-17-6927,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,16.48,6.00,2/7/2019,18.23,Pix,98.88,4.94,9.90
+214-30-2776,Big Box,Ceilândia,Membro,Tecnologia,34.49,5.00,3/11/2019,19.44,Crédito,172.45,8.62,9.00
+217-58-1179,Assaí,Taguatinga,Membro,Utensílios paraCasa,62.65,4.00,1/5/2019,11.25,Dinheiro,250.60,12.53,4.20
+218-59-9410,Assaí,Taguatinga,Membro,Utensílios paraCasa,72.42,3.00,3/29/2019,16.54,Pix,217.26,10.86,8.20
+219-22-9386,Big Box,Ceilândia,Membro,Esportes,99.96,9.00,3/9/2019,17.26,Crédito,899.64,44.98,4.20
+219-61-4139,Carrefour,Sobradinho,Normal,Tecnologia,83.08,1.00,1/23/2019,17.16,Pix,83.08,4.15,6.40
+220-28-1851,Assaí,Taguatinga,Normal,Utensílios paraCasa,34.73,2.00,3/1/2019,18.14,Pix,69.46,3.47,9.70
+220-68-6701,Assaí,Taguatinga,Normal,Utensílios paraCasa,77.47,4.00,3/17/2019,16.36,Dinheiro,309.88,15.49,4.20
+221-25-5073,Assaí,Taguatinga,Normal,Alimentos e Bedidas,74.66,4.00,3/4/2019,10.39,Dinheiro,298.64,14.93,8.50
+222-42-0244,Big Box,Ceilândia,Membro,Saúde e Beleza,72.11,9.00,1/28/2019,13.53,Crédito,648.99,32.45,7.70
+225-32-0908,Carrefour,Sobradinho,Normal,Esportes,44.86,10.00,1/26/2019,19.54,Pix,448.60,22.43,8.20
+225-98-1496,Carrefour,Sobradinho,Normal,Acessórios,27.02,3.00,3/2/2019,13.01,Crédito,81.06,04.05,7.10
+226-31-3081,Carrefour,Sobradinho,Normal,Tecnologia,15.28,5.00,3/8/2019,10.29,Dinheiro,76.40,3.82,9.60
+226-34-0034,Big Box,Ceilândia,Normal,Tecnologia,13.78,4.00,1/10/2019,11.1,Pix,55.12,2.76,9.00
+226-71-3580,Carrefour,Sobradinho,Normal,Esportes,23.75,9.00,1/31/2019,12.02,Dinheiro,213.75,10.69,9.50
+227-03-5010,Assaí,Taguatinga,Membro,Utensílios paraCasa,52.59,8.00,3/22/2019,19.2,Crédito,420.72,21.04,8.50
+227-07-4446,Carrefour,Sobradinho,Membro,Tecnologia,78.13,10.00,2/10/2019,20.51,Dinheiro,781.30,39.07,4.40
+227-50-3718,Assaí,Taguatinga,Normal,Saúde e Beleza,14.62,5.00,3/4/2019,12.23,Dinheiro,73.10,3.66,4.40
+227-78-1148,Big Box,Ceilândia,Normal,Acessórios,72.84,7.00,2/15/2019,12.44,Dinheiro,509.88,25.49,8.40
+228-96-1411,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,98.70,8.00,3/4/2019,20.39,Dinheiro,789.60,39.48,7.60
+232-11-3025,Assaí,Taguatinga,Normal,Esportes,78.77,10.00,1/24/2019,10.04,Dinheiro,787.70,39.39,6.40
+232-16-2483,Carrefour,Sobradinho,Membro,Esportes,68.12,1.00,1/7/2019,12.28,Pix,68.12,3.41,6.80
+233-34-0817,Carrefour,Sobradinho,Membro,Tecnologia,98.84,1.00,2/15/2019,11.21,Dinheiro,98.84,4.94,8.40
+233-67-5758,Carrefour,Sobradinho,Normal,Saúde e Beleza,40.35,1.00,1/29/2019,13.46,Pix,40.35,02.02,6.20
+234-03-4040,Big Box,Ceilândia,Membro,Alimentos e Bedidas,73.05,10.00,3/3/2019,12.25,Crédito,730.50,36.53,8.70
+234-36-2483,Big Box,Ceilândia,Normal,Saúde e Beleza,57.59,6.00,2/15/2019,13.51,Dinheiro,345.54,17.28,5.10
+234-65-2137,Carrefour,Sobradinho,Normal,Utensílios paraCasa,95.58,10.00,1/16/2019,13.32,Dinheiro,955.80,47.79,4.80
+235-06-8510,Carrefour,Sobradinho,Membro,Utensílios paraCasa,85.72,3.00,1/24/2019,20.59,Pix,257.16,12.86,5.10
+235-46-8343,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,27.66,10.00,2/14/2019,11.26,Crédito,276.60,13.83,8.90
+236-27-1144,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,16.31,9.00,3/26/2019,10.31,Pix,146.79,7.34,8.40
+236-86-3015,Carrefour,Sobradinho,Membro,Utensílios paraCasa,13.98,1.00,2/4/2019,13.38,Pix,13.98,0.70,9.80
+237-01-6122,Carrefour,Sobradinho,Membro,Utensílios paraCasa,80.79,9.00,2/1/2019,20.31,Crédito,727.11,36.36,9.50
+237-44-6163,Assaí,Taguatinga,Normal,Tecnologia,10.56,8.00,1/24/2019,17.43,Dinheiro,84.48,4.22,7.60
+238-45-6950,Big Box,Ceilândia,Membro,Alimentos e Bedidas,53.72,1.00,3/1/2019,20.03,Pix,53.72,2.69,6.40
+238-49-0436,Assaí,Taguatinga,Normal,Saúde e Beleza,32.46,8.00,3/27/2019,13.48,Crédito,259.68,12.98,4.90
+239-10-7476,Assaí,Taguatinga,Normal,Utensílios paraCasa,77.95,6.00,1/21/2019,16.37,Pix,467.70,23.39,8.00
+239-36-3640,Big Box,Ceilândia,Normal,Tecnologia,45.35,6.00,1/31/2019,13.44,Pix,272.10,13.61,6.10
+239-48-4278,Assaí,Taguatinga,Membro,Alimentos e Bedidas,10.13,7.00,3/10/2019,19.35,Pix,70.91,3.55,8.30
+241-11-2261,Big Box,Ceilândia,Normal,Acessórios,79.86,7.00,1/10/2019,10.33,Crédito,559.02,27.95,5.50
+241-72-9525,Big Box,Ceilândia,Normal,Esportes,51.91,10.00,2/16/2019,12.21,Dinheiro,519.10,25.96,8.20
+241-96-5076,Big Box,Ceilândia,Membro,Utensílios paraCasa,49.10,2.00,1/8/2019,12.58,Crédito,98.20,4.91,6.40
+242-11-3142,Big Box,Ceilândia,Membro,Acessórios,83.77,2.00,2/24/2019,19.57,Dinheiro,167.54,8.38,4.60
+242-55-6721,Big Box,Ceilândia,Normal,Utensílios paraCasa,16.16,2.00,3/7/2019,11.49,Pix,32.32,1.62,6.50
+243-47-2663,Carrefour,Sobradinho,Membro,Tecnologia,18.77,6.00,1/28/2019,16.43,Crédito,112.62,5.63,5.50
+243-55-8457,Assaí,Taguatinga,Normal,Alimentos e Bedidas,74.44,10.00,2/27/2019,11.4,Pix,744.40,37.22,5.10
+244-08-0162,Big Box,Ceilândia,Normal,Saúde e Beleza,34.21,10.00,1/2/2019,13,Dinheiro,342.10,17.11,5.10
+246-11-3901,Carrefour,Sobradinho,Normal,Tecnologia,32.80,10.00,2/15/2019,12.12,Dinheiro,328.00,16.40,6.20
+246-55-6923,Carrefour,Sobradinho,Membro,Utensílios paraCasa,35.79,9.00,3/10/2019,15.06,Crédito,322.11,16.11,5.10
+247-11-2470,Assaí,Taguatinga,Membro,Acessórios,22.32,4.00,3/1/2019,16.23,Crédito,89.28,4.46,4.40
+249-42-3782,Assaí,Taguatinga,Normal,Saúde e Beleza,70.01,5.00,1/3/2019,11.36,Pix,350.05,17.50,5.50
+250-17-5703,Assaí,Taguatinga,Membro,Alimentos e Bedidas,18.85,10.00,2/27/2019,18.24,Pix,188.50,9.43,5.60
+250-81-7186,Carrefour,Sobradinho,Normal,Tecnologia,99.69,1.00,2/27/2019,10.23,Crédito,99.69,4.98,8.00
+252-56-2699,Assaí,Taguatinga,Normal,Alimentos e Bedidas,43.19,10.00,2/7/2019,16.48,Pix,431.90,21.60,8.20
+253-12-6086,Assaí,Taguatinga,Membro,Esportes,98.40,7.00,3/12/2019,12.43,Crédito,688.80,34.44,8.70
+254-31-0042,Assaí,Taguatinga,Membro,Tecnologia,21.50,9.00,3/6/2019,12.46,Crédito,193.50,9.68,7.80
+256-08-8343,Assaí,Taguatinga,Normal,Utensílios paraCasa,56.53,4.00,3/4/2019,19.48,Pix,226.12,11.31,5.50
+256-58-3609,Carrefour,Sobradinho,Membro,Acessórios,91.98,1.00,3/18/2019,15.29,Dinheiro,91.98,4.60,9.80
+257-60-7754,Assaí,Taguatinga,Normal,Tecnologia,50.23,4.00,1/8/2019,17.12,Dinheiro,200.92,10.05,9.00
+257-73-1380,Carrefour,Sobradinho,Membro,Esportes,82.93,4.00,1/20/2019,16.51,Pix,331.72,16.59,9.60
+258-69-7810,Carrefour,Sobradinho,Normal,Acessórios,36.85,5.00,1/26/2019,18.53,Dinheiro,184.25,9.21,9.20
+258-92-7466,Assaí,Taguatinga,Normal,Saúde e Beleza,35.68,5.00,2/6/2019,18.33,Crédito,178.40,8.92,6.60
+261-12-8671,Big Box,Ceilândia,Normal,Acessórios,60.96,2.00,1/25/2019,19.39,Crédito,121.92,6.10,4.90
+262-47-2794,Big Box,Ceilândia,Membro,Utensílios paraCasa,71.86,8.00,3/6/2019,15.07,Crédito,574.88,28.74,6.20
+263-10-3913,Carrefour,Sobradinho,Membro,Acessórios,49.04,9.00,1/9/2019,14.2,Crédito,441.36,22.07,8.60
+263-12-5321,Assaí,Taguatinga,Membro,Tecnologia,92.60,7.00,2/27/2019,12.52,Crédito,648.20,32.41,9.30
+263-87-5680,Carrefour,Sobradinho,Membro,Utensílios paraCasa,28.53,10.00,3/18/2019,17.38,Pix,285.30,14.27,7.80
+266-20-6657,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,55.04,7.00,3/12/2019,19.39,Pix,385.28,19.26,5.20
+266-76-6436,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,38.60,3.00,3/28/2019,13.57,Pix,115.80,5.79,7.50
+267-62-7380,Carrefour,Sobradinho,Membro,Tecnologia,82.34,10.00,3/29/2019,19.12,Pix,823.40,41.17,4.30
+268-03-6164,Big Box,Ceilândia,Normal,Saúde e Beleza,96.11,1.00,1/25/2019,16.28,Pix,96.11,4.81,7.80
+268-20-3585,Carrefour,Sobradinho,Normal,Saúde e Beleza,13.85,9.00,2/4/2019,12.5,Pix,124.65,6.23,6.00
+268-27-6179,Big Box,Ceilândia,Membro,Acessórios,56.47,8.00,3/9/2019,14.57,Pix,451.76,22.59,7.30
+269-04-5750,Big Box,Ceilândia,Membro,Acessórios,73.82,4.00,2/21/2019,18.31,Dinheiro,295.28,14.76,6.70
+269-10-8440,Assaí,Taguatinga,Membro,Saúde e Beleza,53.17,7.00,1/21/2019,18.01,Dinheiro,372.19,18.61,8.90
+271-77-8740,Carrefour,Sobradinho,Membro,Esportes,29.22,6.00,1/1/2019,11.4,Pix,175.32,8.77,5.00
+271-88-8734,Carrefour,Sobradinho,Membro,Acessórios,97.21,10.00,2/8/2019,13,Crédito,972.10,48.61,8.70
+272-27-9238,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,41.24,4.00,2/19/2019,16.23,Dinheiro,164.96,8.25,7.10
+272-65-1806,Assaí,Taguatinga,Normal,Tecnologia,60.88,9.00,1/15/2019,17.17,Pix,547.92,27.40,4.70
+273-16-6619,Big Box,Ceilândia,Normal,Utensílios paraCasa,33.20,2.00,3/15/2019,12.2,Crédito,66.40,3.32,4.40
+273-84-2164,Carrefour,Sobradinho,Membro,Tecnologia,12.05,5.00,2/16/2019,15.53,Pix,60.25,03.01,5.50
+274-05-5470,Assaí,Taguatinga,Membro,Alimentos e Bedidas,73.47,4.00,2/23/2019,18.3,Dinheiro,293.88,14.69,6.00
+275-28-0149,Assaí,Taguatinga,Normal,Esportes,63.69,1.00,2/25/2019,16.21,Dinheiro,63.69,3.18,6.00
+276-54-0879,Big Box,Ceilândia,Normal,Esportes,97.74,4.00,3/12/2019,19.53,Pix,390.96,19.55,6.40
+276-75-6884,Assaí,Taguatinga,Normal,Saúde e Beleza,68.71,3.00,3/4/2019,10.05,Dinheiro,206.13,10.31,8.70
+277-35-5865,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,98.97,9.00,3/9/2019,11.23,Dinheiro,890.73,44.54,6.70
+277-63-2961,Big Box,Ceilândia,Membro,Esportes,73.97,1.00,2/3/2019,15.53,Crédito,73.97,3.70,5.40
+278-86-2735,Assaí,Taguatinga,Normal,Alimentos e Bedidas,52.34,3.00,3/27/2019,14.03,Dinheiro,157.02,7.85,9.20
+278-97-7759,Assaí,Taguatinga,Membro,Tecnologia,62.48,1.00,2/18/2019,20.29,Dinheiro,62.48,3.12,4.70
+279-62-1445,Carrefour,Sobradinho,Membro,Acessórios,12.54,1.00,2/21/2019,12.38,Dinheiro,12.54,0.63,8.20
+279-74-2924,Big Box,Ceilândia,Membro,Tecnologia,72.17,1.00,1/4/2019,19.4,Dinheiro,72.17,3.61,6.10
+280-17-4359,Carrefour,Sobradinho,Membro,Saúde e Beleza,90.50,10.00,1/25/2019,13.48,Dinheiro,905.00,45.25,8.10
+280-35-5823,Big Box,Ceilândia,Membro,Utensílios paraCasa,86.72,1.00,1/17/2019,18.45,Pix,86.72,4.34,7.90
+282-35-2475,Big Box,Ceilândia,Normal,Esportes,93.31,2.00,3/25/2019,17.53,Dinheiro,186.62,9.33,6.30
+283-26-5248,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,98.52,10.00,1/30/2019,20.23,Pix,985.20,49.26,4.50
+283-79-9594,Big Box,Ceilândia,Normal,Alimentos e Bedidas,48.51,7.00,1/25/2019,13.3,Crédito,339.57,16.98,5.20
+284-34-9626,Big Box,Ceilândia,Normal,Utensílios paraCasa,77.04,3.00,2/11/2019,10.39,Crédito,231.12,11.56,7.20
+284-54-4231,Carrefour,Sobradinho,Membro,Esportes,80.93,1.00,1/19/2019,16.08,Crédito,80.93,04.05,9.00
+285-68-5083,Carrefour,Sobradinho,Membro,Esportes,24.74,3.00,2/15/2019,17.47,Crédito,74.22,3.71,10.00
+286-01-5402,Assaí,Taguatinga,Normal,Esportes,40.23,7.00,3/30/2019,13.22,Dinheiro,281.61,14.08,9.60
+286-43-6208,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,87.80,9.00,3/16/2019,19.08,Dinheiro,790.20,39.51,9.20
+286-62-6248,Big Box,Ceilândia,Normal,Acessórios,39.21,4.00,1/16/2019,20.03,Crédito,156.84,7.84,9.00
+286-75-7818,Big Box,Ceilândia,Normal,Acessórios,69.08,2.00,1/31/2019,19.48,Crédito,138.16,6.91,6.90
+287-21-9091,Assaí,Taguatinga,Normal,Utensílios paraCasa,74.67,9.00,1/22/2019,10.55,Pix,672.03,33.60,9.40
+287-83-1405,Assaí,Taguatinga,Normal,Saúde e Beleza,25.43,6.00,2/12/2019,19.01,Pix,152.58,7.63,7.00
+288-38-3758,Carrefour,Sobradinho,Membro,Acessórios,84.87,3.00,1/25/2019,18.3,Pix,254.61,12.73,7.40
+288-62-1085,Assaí,Taguatinga,Membro,Acessórios,38.54,5.00,1/9/2019,13.34,Pix,192.70,9.64,5.60
+289-15-7034,Assaí,Taguatinga,Membro,Esportes,82.33,4.00,1/11/2019,10.37,Crédito,329.32,16.47,7.50
+289-65-5721,Big Box,Ceilândia,Normal,Acessórios,81.37,2.00,1/26/2019,19.28,Dinheiro,162.74,8.14,6.50
+290-68-2984,Assaí,Taguatinga,Normal,Utensílios paraCasa,23.75,4.00,3/16/2019,11.22,Dinheiro,95.00,4.75,5.20
+291-21-5991,Big Box,Ceilândia,Membro,Saúde e Beleza,61.29,5.00,3/29/2019,14.28,Dinheiro,306.45,15.32,7.00
+291-32-1427,Big Box,Ceilândia,Membro,Acessórios,21.94,5.00,3/5/2019,12.29,Pix,109.70,5.49,5.30
+291-55-6563,Assaí,Taguatinga,Membro,Utensílios paraCasa,34.42,6.00,3/30/2019,12.45,Pix,206.52,10.33,7.50
+291-59-1384,Big Box,Ceilândia,Normal,Tecnologia,60.30,1.00,2/28/2019,17.38,Dinheiro,60.30,03.02,6.00
+296-11-7041,Big Box,Ceilândia,Membro,Saúde e Beleza,27.07,1.00,1/12/2019,20.07,Crédito,27.07,1.35,5.30
+299-29-0180,Big Box,Ceilândia,Membro,Utensílios paraCasa,52.18,7.00,3/9/2019,10.54,Dinheiro,365.26,18.26,9.30
+299-46-1805,Big Box,Ceilândia,Membro,Esportes,93.72,6.00,1/15/2019,16.19,Dinheiro,562.32,28.12,4.50
+300-71-4605,Carrefour,Sobradinho,Membro,Tecnologia,86.04,5.00,2/25/2019,11.24,Pix,430.20,21.51,4.80
+301-11-9629,Assaí,Taguatinga,Normal,Esportes,19.10,7.00,1/15/2019,10.43,Dinheiro,133.70,6.69,9.70
+301-81-8610,Big Box,Ceilândia,Membro,Acessórios,25.42,8.00,3/19/2019,19.42,Crédito,203.36,10.17,6.70
+302-15-2162,Carrefour,Sobradinho,Membro,Saúde e Beleza,46.53,6.00,3/3/2019,10.54,Crédito,279.18,13.96,4.30
+303-96-2227,Big Box,Ceilândia,Normal,Utensílios paraCasa,97.38,10.00,3/2/2019,17.16,Pix,973.80,48.69,4.40
+305-03-2383,Assaí,Taguatinga,Normal,Alimentos e Bedidas,67.10,3.00,2/15/2019,10.36,Dinheiro,201.30,10.07,7.50
+305-14-0245,Big Box,Ceilândia,Membro,Utensílios paraCasa,94.49,8.00,3/3/2019,19,Pix,755.92,37.80,7.50
+305-18-3552,Big Box,Ceilândia,Membro,Utensílios paraCasa,60.38,10.00,2/12/2019,16.19,Dinheiro,603.80,30.19,6.00
+305-89-2768,Big Box,Ceilândia,Membro,Utensílios paraCasa,21.90,3.00,1/9/2019,18.43,Pix,65.70,3.29,4.70
+307-04-2070,Assaí,Taguatinga,Membro,Acessórios,30.62,1.00,2/5/2019,14.14,Crédito,30.62,1.53,4.10
+307-83-9164,Assaí,Taguatinga,Membro,Utensílios paraCasa,60.01,4.00,1/25/2019,15.54,Dinheiro,240.04,12.00,4.50
+307-85-2293,Big Box,Ceilândia,Normal,Utensílios paraCasa,50.28,5.00,3/7/2019,13.58,Pix,251.40,12.57,9.70
+308-39-1707,Assaí,Taguatinga,Normal,Acessórios,12.09,1.00,1/26/2019,18.19,Crédito,12.09,0.60,8.20
+308-47-4913,Assaí,Taguatinga,Membro,Esportes,52.26,10.00,3/9/2019,12.45,Crédito,522.60,26.13,6.20
+308-81-0538,Assaí,Taguatinga,Normal,Acessórios,73.05,4.00,2/25/2019,17.16,Crédito,292.20,14.61,4.90
+311-13-6971,Big Box,Ceilândia,Membro,Esportes,31.99,10.00,2/20/2019,15.18,Crédito,319.90,16.00,9.90
+313-66-9943,Big Box,Ceilândia,Membro,Alimentos e Bedidas,29.15,3.00,3/27/2019,20.29,Crédito,87.45,4.37,7.30
+314-23-4520,Carrefour,Sobradinho,Membro,Saúde e Beleza,81.23,7.00,1/15/2019,20.44,Dinheiro,568.61,28.43,9.00
+315-22-5665,Carrefour,Sobradinho,Normal,Utensílios paraCasa,73.56,10.00,2/24/2019,11.38,Pix,735.60,36.78,8.00
+316-01-3952,Assaí,Taguatinga,Normal,Alimentos e Bedidas,54.27,5.00,3/13/2019,14.16,Pix,271.35,13.57,4.60
+316-55-4634,Big Box,Ceilândia,Membro,Alimentos e Bedidas,80.05,5.00,1/26/2019,12.45,Crédito,400.25,20.01,9.40
+316-66-3011,Assaí,Taguatinga,Membro,Alimentos e Bedidas,47.63,9.00,1/23/2019,12.35,Dinheiro,428.67,21.43,5.00
+316-68-6352,Assaí,Taguatinga,Membro,Alimentos e Bedidas,36.36,2.00,1/21/2019,10,Dinheiro,72.72,3.64,7.10
+318-12-0304,Assaí,Taguatinga,Normal,Acessórios,30.61,1.00,1/23/2019,12.2,Pix,30.61,1.53,5.20
+318-68-5053,Big Box,Ceilândia,Normal,Saúde e Beleza,76.99,6.00,2/27/2019,17.55,Dinheiro,461.94,23.10,6.10
+318-81-2368,Carrefour,Sobradinho,Normal,Tecnologia,46.20,1.00,3/19/2019,12.16,Dinheiro,46.20,2.31,6.30
+319-50-3348,Big Box,Ceilândia,Normal,Utensílios paraCasa,40.30,2.00,3/11/2019,15.3,Pix,80.60,04.03,4.40
+319-74-2561,Assaí,Taguatinga,Membro,Tecnologia,94.64,3.00,2/21/2019,16.55,Dinheiro,283.92,14.20,5.50
+320-32-8842,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,22.62,1.00,3/17/2019,18.58,Dinheiro,22.62,1.13,6.40
+320-49-6392,Carrefour,Sobradinho,Normal,Tecnologia,30.24,1.00,3/4/2019,15.44,Dinheiro,30.24,1.51,8.40
+320-85-2052,Big Box,Ceilândia,Normal,Esportes,34.81,1.00,1/14/2019,10.11,Crédito,34.81,1.74,7.00
+321-49-7382,Big Box,Ceilândia,Membro,Esportes,88.31,1.00,2/15/2019,17.38,Crédito,88.31,4.42,5.20
+322-02-2271,Big Box,Ceilândia,Normal,Esportes,42.97,3.00,2/3/2019,11.46,Dinheiro,128.91,6.45,9.30
+324-41-6833,Carrefour,Sobradinho,Membro,Tecnologia,30.20,8.00,3/3/2019,19.3,Pix,241.60,12.08,5.10
+324-92-3863,Assaí,Taguatinga,Membro,Tecnologia,20.89,2.00,2/5/2019,18.45,Dinheiro,41.78,02.09,9.80
+325-77-6186,Assaí,Taguatinga,Membro,Utensílios paraCasa,90.65,10.00,3/8/2019,10.53,Pix,906.50,45.33,7.30
+325-89-4209,Assaí,Taguatinga,Membro,Alimentos e Bedidas,87.90,1.00,2/5/2019,19.42,Pix,87.90,4.40,6.70
+325-90-8763,Carrefour,Sobradinho,Membro,Tecnologia,46.57,10.00,1/27/2019,13.58,Dinheiro,465.70,23.29,7.60
+326-71-2155,Carrefour,Sobradinho,Normal,Esportes,73.95,4.00,2/3/2019,10.02,Dinheiro,295.80,14.79,6.10
+326-78-5178,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,91.40,7.00,2/3/2019,10.19,Dinheiro,639.80,31.99,9.50
+327-40-9673,Big Box,Ceilândia,Membro,Esportes,72.60,6.00,1/13/2019,19.51,Dinheiro,435.60,21.78,6.90
+329-62-1586,Assaí,Taguatinga,Normal,Alimentos e Bedidas,54.67,3.00,1/21/2019,18,Crédito,164.01,8.20,8.60
+333-23-2632,Assaí,Taguatinga,Membro,Saúde e Beleza,10.08,7.00,3/28/2019,20.14,Dinheiro,70.56,3.53,4.20
+333-73-7901,Carrefour,Sobradinho,Normal,Saúde e Beleza,54.92,8.00,3/23/2019,13.24,Pix,439.36,21.97,7.60
+334-64-2006,Assaí,Taguatinga,Membro,Utensílios paraCasa,70.32,2.00,3/24/2019,14.22,Pix,140.64,07.03,9.60
+336-78-2147,Carrefour,Sobradinho,Membro,Utensílios paraCasa,63.91,8.00,3/13/2019,19.52,Crédito,511.28,25.56,4.60
+338-65-2210,Carrefour,Sobradinho,Membro,Saúde e Beleza,68.60,10.00,2/5/2019,19.57,Dinheiro,686.00,34.30,9.10
+339-12-4827,Big Box,Ceilândia,Membro,Acessórios,73.96,1.00,1/5/2019,11.32,Crédito,73.96,3.70,5.00
+339-18-7061,Carrefour,Sobradinho,Membro,Acessórios,92.98,2.00,2/13/2019,15.06,Crédito,185.96,9.30,8.00
+339-38-9982,Big Box,Ceilândia,Membro,Acessórios,59.86,2.00,1/13/2019,14.55,Pix,119.72,5.99,6.70
+339-96-8318,Big Box,Ceilândia,Membro,Acessórios,81.31,7.00,3/1/2019,19.49,Pix,569.17,28.46,6.30
+340-21-9136,Assaí,Taguatinga,Membro,Esportes,40.05,4.00,1/25/2019,11.4,Dinheiro,160.20,08.01,9.70
+340-66-0321,Assaí,Taguatinga,Membro,Tecnologia,36.36,4.00,3/25/2019,13.07,Dinheiro,145.44,7.27,7.60
+342-65-4817,Carrefour,Sobradinho,Membro,Saúde e Beleza,86.80,3.00,1/28/2019,16.47,Pix,260.40,13.02,9.90
+343-61-3544,Big Box,Ceilândia,Membro,Esportes,26.67,10.00,1/29/2019,11.48,Dinheiro,266.70,13.34,8.60
+343-75-9322,Big Box,Ceilândia,Membro,Esportes,11.85,8.00,1/9/2019,16.34,Dinheiro,94.80,4.74,4.10
+343-87-0864,Carrefour,Sobradinho,Membro,Saúde e Beleza,75.88,1.00,1/3/2019,10.3,Crédito,75.88,3.79,7.10
+345-08-4992,Assaí,Taguatinga,Normal,Utensílios paraCasa,33.99,6.00,3/8/2019,15.37,Crédito,203.94,10.20,7.70
+345-68-9016,Carrefour,Sobradinho,Membro,Esportes,31.67,8.00,1/2/2019,16.19,Crédito,253.36,12.67,5.60
+346-12-3257,Big Box,Ceilândia,Membro,Tecnologia,19.24,9.00,3/4/2019,16.28,Dinheiro,173.16,8.66,8.00
+346-84-3103,Big Box,Ceilândia,Membro,Tecnologia,13.22,5.00,3/2/2019,19.26,Dinheiro,66.10,3.31,4.30
+347-34-2234,Big Box,Ceilândia,Membro,Esportes,55.07,9.00,2/3/2019,13.4,Pix,495.63,24.78,10.00
+347-56-2442,Assaí,Taguatinga,Normal,Utensílios paraCasa,65.82,1.00,2/22/2019,15.33,Dinheiro,65.82,3.29,4.10
+347-72-6115,Big Box,Ceilândia,Membro,Esportes,90.74,7.00,1/16/2019,18.03,Crédito,635.18,31.76,6.20
+349-97-8902,Big Box,Ceilândia,Membro,Alimentos e Bedidas,57.89,2.00,1/17/2019,10.37,Pix,115.78,5.79,8.90
+351-62-0822,Big Box,Ceilândia,Membro,Acessórios,14.48,4.00,2/6/2019,18.07,Pix,57.92,2.90,4.50
+354-25-5821,Big Box,Ceilândia,Membro,Esportes,69.12,6.00,2/8/2019,13.03,Dinheiro,414.72,20.74,5.60
+354-39-5160,Assaí,Taguatinga,Membro,Utensílios paraCasa,34.42,6.00,2/18/2019,15.39,Dinheiro,206.52,10.33,9.80
+355-34-6244,Big Box,Ceilândia,Normal,Alimentos e Bedidas,72.39,2.00,1/13/2019,19.55,Crédito,144.78,7.24,8.10
+355-53-5943,Assaí,Taguatinga,Membro,Tecnologia,68.84,6.00,2/25/2019,14.36,Pix,413.04,20.65,5.80
+356-44-8813,Big Box,Ceilândia,Normal,Utensílios paraCasa,37.48,3.00,1/20/2019,13.45,Crédito,112.44,5.62,7.70
+358-88-9262,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,87.48,6.00,2/1/2019,18.43,Pix,524.88,26.24,5.10
+359-90-3665,Big Box,Ceilândia,Membro,Acessórios,18.08,4.00,1/14/2019,18.03,Crédito,72.32,3.62,9.50
+359-94-5395,Big Box,Ceilândia,Normal,Saúde e Beleza,92.78,1.00,3/15/2019,10.5,Crédito,92.78,4.64,9.80
+360-39-5055,Carrefour,Sobradinho,Membro,Esportes,48.91,5.00,3/9/2019,10.17,Dinheiro,244.55,12.23,6.60
+361-59-0574,Big Box,Ceilândia,Membro,Esportes,90.53,8.00,3/15/2019,14.48,Crédito,724.24,36.21,6.50
+361-85-2571,Assaí,Taguatinga,Normal,Esportes,89.48,5.00,3/30/2019,10.18,Dinheiro,447.40,22.37,7.40
+362-58-8315,Carrefour,Sobradinho,Normal,Acessórios,76.52,5.00,3/25/2019,10.23,Dinheiro,382.60,19.13,9.90
+364-33-8584,Big Box,Ceilândia,Membro,Alimentos e Bedidas,17.63,5.00,3/8/2019,15.27,Dinheiro,88.15,4.41,8.50
+364-34-2972,Carrefour,Sobradinho,Membro,Tecnologia,96.82,3.00,3/30/2019,20.37,Dinheiro,290.46,14.52,6.70
+365-16-4334,Big Box,Ceilândia,Normal,Alimentos e Bedidas,26.43,8.00,2/24/2019,14.26,Pix,211.44,10.57,8.90
+365-64-0515,Assaí,Taguatinga,Normal,Tecnologia,46.95,5.00,2/12/2019,10.25,Pix,234.75,11.74,7.10
+366-43-6862,Big Box,Ceilândia,Normal,Tecnologia,52.89,4.00,3/25/2019,16.32,Pix,211.56,10.58,6.70
+366-93-0948,Assaí,Taguatinga,Membro,Tecnologia,66.35,1.00,1/31/2019,10.46,Crédito,66.35,3.32,9.70
+369-82-2676,Big Box,Ceilândia,Normal,Tecnologia,75.66,5.00,1/15/2019,18.22,Pix,378.30,18.92,7.80
+370-41-7321,Big Box,Ceilândia,Membro,Saúde e Beleza,56.69,9.00,2/27/2019,17.24,Crédito,510.21,25.51,8.40
+370-96-0655,Carrefour,Sobradinho,Normal,Acessórios,49.32,6.00,1/9/2019,13.46,Pix,295.92,14.80,7.10
+371-85-5789,Big Box,Ceilândia,Normal,Saúde e Beleza,87.98,3.00,3/5/2019,10.4,Pix,263.94,13.20,5.10
+372-26-1506,Carrefour,Sobradinho,Normal,Acessórios,23.82,5.00,1/28/2019,19.24,Pix,119.10,5.96,5.40
+372-62-5264,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,52.60,9.00,1/16/2019,14.42,Dinheiro,473.40,23.67,7.60
+372-94-8041,Assaí,Taguatinga,Normal,Saúde e Beleza,15.26,6.00,2/15/2019,18.03,Pix,91.56,4.58,9.80
+373-09-4567,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,77.56,10.00,3/14/2019,20.35,Pix,775.60,38.78,6.90
+373-14-0504,Assaí,Taguatinga,Membro,Esportes,71.63,2.00,2/12/2019,14.33,Pix,143.26,7.16,8.80
+373-73-7910,Assaí,Taguatinga,Normal,Esportes,86.31,7.00,2/8/2019,10.37,Pix,604.17,30.21,5.30
+373-88-1424,Carrefour,Sobradinho,Membro,Utensílios paraCasa,35.81,5.00,2/6/2019,18.44,Pix,179.05,8.95,7.90
+374-17-3652,Big Box,Ceilândia,Membro,Alimentos e Bedidas,42.82,9.00,2/5/2019,15.26,Crédito,385.38,19.27,8.90
+374-38-5555,Big Box,Ceilândia,Normal,Acessórios,63.71,5.00,2/7/2019,19.3,Pix,318.55,15.93,8.50
+375-72-3056,Big Box,Ceilândia,Normal,Esportes,63.06,3.00,1/19/2019,15.58,Pix,189.18,9.46,7.00
+376-02-8238,Big Box,Ceilândia,Normal,Utensílios paraCasa,93.87,8.00,2/2/2019,18.42,Crédito,750.96,37.55,8.30
+376-56-3573,Carrefour,Sobradinho,Normal,Acessórios,95.42,4.00,2/2/2019,13.23,Pix,381.68,19.08,6.40
+377-79-7592,Carrefour,Sobradinho,Membro,Tecnologia,44.84,9.00,1/14/2019,14,Crédito,403.56,20.18,7.50
+378-07-7001,Big Box,Ceilândia,Membro,Tecnologia,48.09,3.00,2/10/2019,18.23,Crédito,144.27,7.21,7.80
+378-24-2715,Big Box,Ceilândia,Normal,Utensílios paraCasa,53.44,2.00,1/20/2019,20.38,Pix,106.88,5.34,4.10
+379-17-6588,Carrefour,Sobradinho,Normal,Acessórios,59.61,10.00,3/14/2019,11.07,Dinheiro,596.10,29.81,5.30
+380-60-5336,Assaí,Taguatinga,Normal,Tecnologia,40.26,10.00,2/24/2019,18.06,Crédito,402.60,20.13,5.00
+380-94-4661,Carrefour,Sobradinho,Membro,Tecnologia,65.94,4.00,2/7/2019,13.05,Crédito,263.76,13.19,6.90
+381-20-0914,Assaí,Taguatinga,Membro,Acessórios,20.01,9.00,1/12/2019,15.48,Crédito,180.09,9.00,5.70
+382-03-4532,Assaí,Taguatinga,Membro,Saúde e Beleza,18.33,1.00,2/2/2019,18.5,Dinheiro,18.33,0.92,4.30
+382-25-8917,Carrefour,Sobradinho,Normal,Acessórios,42.08,6.00,1/29/2019,12.25,Dinheiro,252.48,12.62,8.90
+384-59-6655,Assaí,Taguatinga,Membro,Alimentos e Bedidas,98.66,9.00,2/19/2019,15.07,Dinheiro,887.94,44.40,8.40
+386-27-7606,Carrefour,Sobradinho,Membro,Utensílios paraCasa,81.20,7.00,3/23/2019,15.59,Crédito,568.40,28.42,8.10
+387-49-4215,Big Box,Ceilândia,Membro,Esportes,48.50,3.00,1/8/2019,12.5,Dinheiro,145.50,7.28,6.70
+388-76-2555,Big Box,Ceilândia,Normal,Esportes,13.69,6.00,2/13/2019,13.59,Dinheiro,82.14,4.11,6.30
+389-25-3394,Carrefour,Sobradinho,Normal,Tecnologia,11.81,5.00,2/17/2019,18.06,Dinheiro,59.05,2.95,9.40
+389-70-2397,Carrefour,Sobradinho,Normal,Saúde e Beleza,83.66,5.00,2/21/2019,10.26,Dinheiro,418.30,20.92,7.20
+390-17-5806,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,38.42,1.00,2/2/2019,16.33,Dinheiro,38.42,1.92,8.60
+390-31-6381,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,27.22,3.00,1/7/2019,12.37,Dinheiro,81.66,04.08,7.30
+390-80-5128,Big Box,Ceilândia,Membro,Saúde e Beleza,19.15,1.00,1/28/2019,17.58,Crédito,19.15,0.96,9.50
+393-65-2792,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,89.48,10.00,1/6/2019,12.46,Crédito,894.80,44.74,9.60
+394-30-3170,Big Box,Ceilândia,Membro,Esportes,88.43,8.00,3/22/2019,19.35,Crédito,707.44,35.37,4.30
+394-41-0748,Carrefour,Sobradinho,Membro,Acessórios,54.07,9.00,1/27/2019,14.55,Pix,486.63,24.33,9.50
+394-43-4238,Big Box,Ceilândia,Membro,Utensílios paraCasa,17.77,5.00,2/15/2019,12.42,Crédito,88.85,4.44,5.40
+394-55-6384,Carrefour,Sobradinho,Membro,Esportes,70.19,9.00,1/25/2019,13.38,Dinheiro,631.71,31.59,6.70
+396-90-2219,Big Box,Ceilândia,Normal,Tecnologia,14.96,8.00,2/23/2019,12.29,Dinheiro,119.68,5.98,8.60
+397-25-8725,Assaí,Taguatinga,Membro,Saúde e Beleza,39.62,9.00,1/13/2019,17.54,Crédito,356.58,17.83,6.80
+399-46-5918,Carrefour,Sobradinho,Normal,Tecnologia,85.98,8.00,2/28/2019,19.01,Dinheiro,687.84,34.39,8.20
+399-69-4630,Carrefour,Sobradinho,Normal,Tecnologia,22.21,6.00,3/7/2019,10.23,Crédito,133.26,6.66,8.60
+400-45-1220,Big Box,Ceilândia,Normal,Saúde e Beleza,13.50,10.00,2/27/2019,11.06,Crédito,135.00,6.75,4.80
+400-60-7251,Assaí,Taguatinga,Normal,Utensílios paraCasa,74.07,1.00,2/10/2019,12.5,Pix,74.07,3.70,9.90
+400-80-4065,Carrefour,Sobradinho,Membro,Saúde e Beleza,68.55,4.00,2/15/2019,20.21,Crédito,274.20,13.71,9.20
+400-89-4171,Carrefour,Sobradinho,Normal,Esportes,80.97,8.00,1/28/2019,13.05,Dinheiro,647.76,32.39,9.30
+401-09-4232,Carrefour,Sobradinho,Membro,Utensílios paraCasa,86.69,5.00,2/11/2019,18.38,Pix,433.45,21.67,9.40
+401-18-8016,Big Box,Ceilândia,Membro,Esportes,98.13,1.00,1/21/2019,17.36,Dinheiro,98.13,4.91,8.90
+404-91-5964,Assaí,Taguatinga,Normal,Tecnologia,74.58,7.00,2/4/2019,16.09,Crédito,522.06,26.10,9.00
+405-31-3305,Assaí,Taguatinga,Membro,Acessórios,43.13,10.00,2/2/2019,18.31,Crédito,431.30,21.57,5.50
+406-46-7107,Assaí,Taguatinga,Normal,Utensílios paraCasa,96.52,6.00,1/11/2019,11.52,Dinheiro,579.12,28.96,4.50
+407-63-8975,Assaí,Taguatinga,Normal,Alimentos e Bedidas,73.88,6.00,3/23/2019,19.16,Pix,443.28,22.16,4.40
+408-26-9866,Carrefour,Sobradinho,Normal,Esportes,73.98,7.00,3/2/2019,16.42,Pix,517.86,25.89,4.10
+408-66-6712,Carrefour,Sobradinho,Membro,Saúde e Beleza,47.71,6.00,2/16/2019,14.19,Pix,286.26,14.31,4.40
+409-33-9708,Assaí,Taguatinga,Normal,Acessórios,98.48,2.00,2/19/2019,10.12,Pix,196.96,9.85,9.20
+409-49-6995,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,47.27,6.00,2/5/2019,10.17,Dinheiro,283.62,14.18,8.80
+410-67-1709,Assaí,Taguatinga,Membro,Acessórios,63.88,8.00,1/20/2019,17.48,Pix,511.04,25.55,9.90
+411-77-0180,Assaí,Taguatinga,Membro,Tecnologia,72.20,7.00,3/26/2019,20.14,Pix,505.40,25.27,4.30
+413-20-6708,Carrefour,Sobradinho,Membro,Acessórios,51.47,1.00,3/18/2019,15.52,Pix,51.47,2.57,8.50
+414-12-7047,Big Box,Ceilândia,Normal,Alimentos e Bedidas,19.79,8.00,1/18/2019,12.04,Pix,158.32,7.92,8.70
+416-13-5917,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,97.03,5.00,1/30/2019,16.24,Pix,485.15,24.26,9.30
+416-17-9926,Assaí,Taguatinga,Membro,Tecnologia,74.22,10.00,1/1/2019,14.42,Crédito,742.20,37.11,4.30
+418-02-5978,Big Box,Ceilândia,Normal,Saúde e Beleza,84.09,9.00,2/11/2019,10.54,Dinheiro,756.81,37.84,8.00
+418-05-0656,Big Box,Ceilândia,Normal,Acessórios,25.56,7.00,2/2/2019,20.42,Dinheiro,178.92,8.95,7.10
+420-04-7590,Big Box,Ceilândia,Normal,Utensílios paraCasa,99.70,3.00,3/18/2019,11.29,Pix,299.10,14.96,4.70
+420-11-4919,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,71.39,5.00,2/17/2019,19.57,Crédito,356.95,17.85,5.50
+420-18-8989,Assaí,Taguatinga,Membro,Esportes,51.52,8.00,2/2/2019,15.47,Dinheiro,412.16,20.61,9.60
+420-97-3340,Assaí,Taguatinga,Normal,Alimentos e Bedidas,71.68,3.00,3/28/2019,15.3,Crédito,215.04,10.75,9.20
+421-95-9805,Assaí,Taguatinga,Normal,Tecnologia,28.96,1.00,2/7/2019,10.18,Crédito,28.96,1.45,6.20
+422-29-8786,Assaí,Taguatinga,Normal,Utensílios paraCasa,67.09,5.00,1/3/2019,16.47,Crédito,335.45,16.77,9.10
+423-57-2993,Big Box,Ceilândia,Normal,Esportes,93.39,6.00,3/27/2019,19.18,Pix,560.34,28.02,10.00
+423-64-4619,Assaí,Taguatinga,Membro,Saúde e Beleza,15.55,9.00,3/7/2019,13.12,Dinheiro,139.95,7.00,5.00
+423-80-0988,Carrefour,Sobradinho,Normal,Esportes,76.40,2.00,1/30/2019,19.42,Pix,152.80,7.64,6.50
+425-85-2085,Big Box,Ceilândia,Membro,Saúde e Beleza,54.86,5.00,3/29/2019,16.48,Pix,274.30,13.72,9.80
+426-39-2418,Carrefour,Sobradinho,Normal,Tecnologia,61.41,7.00,1/14/2019,10.02,Dinheiro,429.87,21.49,9.80
+427-45-9297,Big Box,Ceilândia,Membro,Utensílios paraCasa,40.73,7.00,3/12/2019,11.01,Pix,285.11,14.26,5.40
+428-83-5800,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,21.08,3.00,2/9/2019,10.25,Dinheiro,63.24,3.16,7.30
+430-02-3888,Big Box,Ceilândia,Normal,Tecnologia,46.02,6.00,2/7/2019,15.55,Dinheiro,276.12,13.81,7.10
+430-53-4718,Big Box,Ceilândia,Membro,Saúde e Beleza,75.37,8.00,1/28/2019,15.46,Crédito,602.96,30.15,8.40
+430-60-3493,Assaí,Taguatinga,Membro,Utensílios paraCasa,94.88,7.00,2/3/2019,14.38,Dinheiro,664.16,33.21,4.20
+431-66-2305,Big Box,Ceilândia,Normal,Tecnologia,88.25,9.00,2/15/2019,20.51,Crédito,794.25,39.71,7.60
+433-08-7822,Carrefour,Sobradinho,Normal,Saúde e Beleza,78.89,7.00,1/5/2019,19.48,Pix,552.23,27.61,7.50
+433-75-6987,Big Box,Ceilândia,Membro,Saúde e Beleza,55.97,7.00,3/5/2019,19.06,Pix,391.79,19.59,8.90
+434-35-9162,Big Box,Ceilândia,Membro,Alimentos e Bedidas,23.34,4.00,2/4/2019,18.53,Pix,93.36,4.67,7.40
+434-83-9547,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,38.47,8.00,1/23/2019,11.51,Dinheiro,307.76,15.39,7.70
+435-13-4908,Assaí,Taguatinga,Membro,Acessórios,86.68,8.00,1/24/2019,18.04,Crédito,693.44,34.67,7.20
+436-54-4512,Assaí,Taguatinga,Membro,Alimentos e Bedidas,91.61,1.00,3/20/2019,19.44,Dinheiro,91.61,4.58,9.80
+437-53-3084,Big Box,Ceilândia,Normal,Acessórios,99.89,2.00,2/26/2019,11.48,Pix,199.78,9.99,7.10
+437-58-8131,Big Box,Ceilândia,Normal,Acessórios,73.52,2.00,1/15/2019,13.41,Pix,147.04,7.35,4.60
+438-01-4015,Big Box,Ceilândia,Membro,Esportes,49.49,4.00,3/21/2019,15.25,Pix,197.96,9.90,6.60
+438-23-1242,Big Box,Ceilândia,Normal,Tecnologia,75.88,7.00,1/24/2019,10.38,Pix,531.16,26.56,8.90
+439-54-7422,Assaí,Taguatinga,Normal,Tecnologia,51.19,4.00,3/18/2019,17.15,Crédito,204.76,10.24,4.70
+440-59-5691,Carrefour,Sobradinho,Membro,Saúde e Beleza,37.15,7.00,2/8/2019,13.12,Crédito,260.05,13.00,7.70
+441-94-7118,Assaí,Taguatinga,Membro,Tecnologia,71.95,1.00,2/4/2019,12.14,Dinheiro,71.95,3.60,7.30
+442-44-6497,Carrefour,Sobradinho,Membro,Utensílios paraCasa,55.57,3.00,1/8/2019,11.42,Crédito,166.71,8.34,5.90
+442-48-3607,Assaí,Taguatinga,Membro,Alimentos e Bedidas,23.48,2.00,3/14/2019,11.21,Crédito,46.96,2.35,7.90
+443-59-0061,Assaí,Taguatinga,Membro,Alimentos e Bedidas,67.45,10.00,2/3/2019,11.25,Pix,674.50,33.73,4.20
+443-60-9639,Carrefour,Sobradinho,Membro,Utensílios paraCasa,60.87,1.00,1/24/2019,13.24,Dinheiro,60.87,03.04,5.50
+443-82-0585,Assaí,Taguatinga,Membro,Saúde e Beleza,77.68,4.00,2/1/2019,19.54,Dinheiro,310.72,15.54,8.40
+445-30-9252,Assaí,Taguatinga,Normal,Esportes,25.70,3.00,1/17/2019,17.59,Pix,77.10,3.86,6.10
+446-47-6729,Carrefour,Sobradinho,Normal,Acessórios,99.82,2.00,1/2/2019,18.09,Crédito,199.64,9.98,6.70
+447-15-7839,Assaí,Taguatinga,Membro,Esportes,22.24,10.00,2/9/2019,11,Dinheiro,222.40,11.12,4.20
+448-34-8700,Big Box,Ceilândia,Membro,Utensílios paraCasa,36.91,7.00,2/10/2019,13.51,Pix,258.37,12.92,6.70
+448-61-3783,Assaí,Taguatinga,Normal,Tecnologia,90.02,8.00,3/21/2019,16.08,Crédito,720.16,36.01,4.50
+448-81-5016,Assaí,Taguatinga,Normal,Saúde e Beleza,59.77,2.00,3/11/2019,12.01,Crédito,119.54,5.98,5.80
+449-16-6770,Assaí,Taguatinga,Normal,Saúde e Beleza,50.79,5.00,2/19/2019,14.53,Crédito,253.95,12.70,5.30
+449-27-2918,Big Box,Ceilândia,Membro,Esportes,39.12,1.00,3/26/2019,11.02,Crédito,39.12,1.96,9.60
+450-28-2866,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,17.44,5.00,1/15/2019,19.25,Dinheiro,87.20,4.36,8.10
+450-42-3339,Carrefour,Sobradinho,Normal,Saúde e Beleza,84.61,10.00,2/9/2019,18.58,Crédito,846.10,42.31,8.80
+451-28-5717,Carrefour,Sobradinho,Membro,Utensílios paraCasa,83.17,6.00,3/20/2019,11.23,Dinheiro,499.02,24.95,7.30
+451-73-2711,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,84.83,1.00,1/14/2019,15.2,Pix,84.83,4.24,8.80
+452-04-8808,Big Box,Ceilândia,Normal,Tecnologia,87.08,7.00,1/26/2019,15.17,Dinheiro,609.56,30.48,5.50
+453-12-7053,Carrefour,Sobradinho,Normal,Acessórios,45.74,3.00,3/10/2019,17.38,Crédito,137.22,6.86,6.50
+453-33-6436,Assaí,Taguatinga,Normal,Utensílios paraCasa,93.12,8.00,2/7/2019,10.09,Dinheiro,744.96,37.25,6.80
+453-63-6187,Big Box,Ceilândia,Normal,Tecnologia,27.50,3.00,3/1/2019,15.4,Pix,82.50,4.13,6.50
+457-12-0244,Carrefour,Sobradinho,Membro,Esportes,35.22,6.00,3/14/2019,13.49,Pix,211.32,10.57,6.50
+457-13-1708,Big Box,Ceilândia,Membro,Acessórios,65.23,10.00,1/8/2019,19.07,Crédito,652.30,32.62,5.20
+457-94-0464,Big Box,Ceilândia,Membro,Tecnologia,87.87,9.00,1/31/2019,20.32,Pix,790.83,39.54,5.60
+458-10-8612,Carrefour,Sobradinho,Normal,Saúde e Beleza,64.08,7.00,1/20/2019,12.27,Pix,448.56,22.43,7.60
+458-41-1477,Carrefour,Sobradinho,Normal,Saúde e Beleza,46.26,6.00,3/8/2019,17.11,Crédito,277.56,13.88,9.50
+458-61-0011,Big Box,Ceilândia,Normal,Alimentos e Bedidas,60.30,4.00,2/20/2019,18.43,Dinheiro,241.20,12.06,5.80
+459-45-2396,Assaí,Taguatinga,Membro,Alimentos e Bedidas,99.60,3.00,2/25/2019,18.45,Dinheiro,298.80,14.94,5.80
+459-50-7686,Assaí,Taguatinga,Normal,Tecnologia,23.46,6.00,1/13/2019,19.14,Pix,140.76,07.04,6.40
+460-35-4390,Assaí,Taguatinga,Normal,Utensílios paraCasa,30.68,3.00,1/22/2019,11,Pix,92.04,4.60,9.10
+460-93-5834,Assaí,Taguatinga,Normal,Esportes,45.58,7.00,1/13/2019,10.03,Dinheiro,319.06,15.95,5.00
+462-67-9126,Assaí,Taguatinga,Normal,Utensílios paraCasa,73.22,6.00,1/21/2019,17.44,Dinheiro,439.32,21.97,7.20
+462-78-5240,Carrefour,Sobradinho,Normal,Tecnologia,26.61,2.00,3/19/2019,14.35,Dinheiro,53.22,2.66,4.20
+466-61-5506,Big Box,Ceilândia,Membro,Tecnologia,90.70,6.00,2/26/2019,10.52,Dinheiro,544.20,27.21,5.30
+468-01-2051,Big Box,Ceilândia,Normal,Alimentos e Bedidas,62.08,7.00,3/6/2019,13.46,Pix,434.56,21.73,5.40
+468-88-0009,Assaí,Taguatinga,Membro,Utensílios paraCasa,65.94,4.00,3/24/2019,10.29,Dinheiro,263.76,13.19,6.00
+468-99-7231,Carrefour,Sobradinho,Normal,Utensílios paraCasa,44.01,8.00,3/3/2019,17.36,Dinheiro,352.08,17.60,8.80
+470-31-3286,Big Box,Ceilândia,Normal,Saúde e Beleza,14.82,3.00,3/1/2019,11.3,Crédito,44.46,2.22,8.70
+470-32-9057,Assaí,Taguatinga,Membro,Alimentos e Bedidas,51.34,5.00,3/28/2019,15.31,Crédito,256.70,12.84,9.10
+471-06-8611,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,52.42,1.00,2/6/2019,10.22,Crédito,52.42,2.62,6.30
+471-41-2823,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,99.79,2.00,3/7/2019,20.37,Pix,199.58,9.98,8.00
+472-15-9636,Assaí,Taguatinga,Normal,Utensílios paraCasa,50.93,8.00,3/22/2019,19.36,Pix,407.44,20.37,9.20
+474-33-8305,Carrefour,Sobradinho,Membro,Acessórios,67.39,7.00,3/23/2019,13.23,Pix,471.73,23.59,6.90
+477-24-6490,Big Box,Ceilândia,Normal,Saúde e Beleza,99.71,6.00,2/26/2019,16.52,Pix,598.26,29.91,7.90
+477-59-2456,Carrefour,Sobradinho,Normal,Acessórios,45.44,7.00,1/23/2019,11.15,Dinheiro,318.08,15.90,9.20
+478-06-7835,Assaí,Taguatinga,Normal,Acessórios,89.69,1.00,1/11/2019,11.2,Pix,89.69,4.48,4.90
+479-26-8945,Big Box,Ceilândia,Membro,Esportes,16.49,2.00,2/5/2019,11.32,Pix,32.98,1.65,4.60
+480-63-2856,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,19.25,8.00,1/23/2019,18.37,Pix,154.00,7.70,6.60
+482-17-1179,Assaí,Taguatinga,Membro,Tecnologia,11.94,3.00,1/19/2019,12.47,Crédito,35.82,1.79,8.10
+483-71-1164,Carrefour,Sobradinho,Normal,Saúde e Beleza,81.30,6.00,3/8/2019,16.43,Pix,487.80,24.39,5.30
+484-22-8230,Carrefour,Sobradinho,Membro,Acessórios,51.89,7.00,1/8/2019,20.08,Dinheiro,363.23,18.16,4.50
+485-30-8700,Assaí,Taguatinga,Normal,Esportes,33.26,5.00,3/18/2019,16.1,Crédito,166.30,8.32,4.20
+487-79-6868,Big Box,Ceilândia,Membro,Utensílios paraCasa,12.29,9.00,3/26/2019,19.28,Crédito,110.61,5.53,8.00
+488-25-4221,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,30.41,1.00,2/22/2019,10.36,Crédito,30.41,1.52,8.40
+489-64-4354,Carrefour,Sobradinho,Normal,Acessórios,16.28,1.00,3/9/2019,15.36,Dinheiro,16.28,0.81,5.00
+489-82-1237,Assaí,Taguatinga,Normal,Tecnologia,93.88,7.00,1/5/2019,11.51,Crédito,657.16,32.86,7.30
+490-29-1201,Assaí,Taguatinga,Normal,Esportes,15.34,1.00,1/6/2019,11.09,Dinheiro,15.34,0.77,6.50
+490-95-0021,Big Box,Ceilândia,Membro,Alimentos e Bedidas,33.21,10.00,1/8/2019,14.25,Pix,332.10,16.61,6.00
+491-38-3499,Assaí,Taguatinga,Membro,Acessórios,55.45,1.00,2/26/2019,17.46,Crédito,55.45,2.77,4.90
+493-65-6248,Carrefour,Sobradinho,Membro,Esportes,36.98,10.00,1/1/2019,19.48,Crédito,369.80,18.49,7.00
+497-36-0989,Assaí,Taguatinga,Normal,Acessórios,51.94,3.00,2/15/2019,15.21,Dinheiro,155.82,7.79,7.90
+497-37-6538,Assaí,Taguatinga,Normal,Esportes,58.91,7.00,1/17/2019,15.15,Pix,412.37,20.62,9.70
+498-41-1961,Big Box,Ceilândia,Normal,Saúde e Beleza,66.68,5.00,2/20/2019,18.01,Dinheiro,333.40,16.67,7.60
+499-27-7781,Big Box,Ceilândia,Normal,Alimentos e Bedidas,53.21,8.00,3/14/2019,16.45,Pix,425.68,21.28,5.00
+500-02-2261,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,57.29,6.00,3/21/2019,17.04,Pix,343.74,17.19,5.90
+501-61-1753,Big Box,Ceilândia,Normal,Utensílios paraCasa,63.15,6.00,1/3/2019,20.24,Pix,378.90,18.95,9.80
+502-05-1910,Assaí,Taguatinga,Normal,Saúde e Beleza,65.18,3.00,2/25/2019,20.35,Crédito,195.54,9.78,6.30
+503-07-0930,Carrefour,Sobradinho,Membro,Esportes,58.39,7.00,2/23/2019,19.49,Crédito,408.73,20.44,8.20
+503-21-4385,Big Box,Ceilândia,Membro,Saúde e Beleza,39.91,3.00,2/21/2019,12.4,Pix,119.73,5.99,9.30
+504-35-8843,Assaí,Taguatinga,Normal,Esportes,42.47,1.00,1/2/2019,16.57,Dinheiro,42.47,2.12,5.70
+505-02-0892,Big Box,Ceilândia,Membro,Saúde e Beleza,42.57,8.00,2/25/2019,14.12,Pix,340.56,17.03,5.60
+509-10-0516,Big Box,Ceilândia,Normal,Utensílios paraCasa,45.97,4.00,2/9/2019,12.02,Pix,183.88,9.19,5.10
+509-29-3912,Assaí,Taguatinga,Membro,Esportes,38.72,9.00,3/20/2019,12.24,Pix,348.48,17.42,4.20
+510-09-5628,Assaí,Taguatinga,Membro,Acessórios,19.66,10.00,3/15/2019,18.2,Crédito,196.60,9.83,7.20
+510-79-0415,Big Box,Ceilândia,Membro,Esportes,23.08,6.00,1/24/2019,19.2,Pix,138.48,6.92,4.90
+510-95-6347,Big Box,Ceilândia,Membro,Alimentos e Bedidas,48.52,3.00,3/5/2019,18.17,Pix,145.56,7.28,4.00
+511-54-3087,Big Box,Ceilândia,Normal,Esportes,88.45,1.00,2/25/2019,16.36,Crédito,88.45,4.42,9.50
+512-91-0811,Carrefour,Sobradinho,Normal,Saúde e Beleza,89.75,1.00,2/6/2019,20.05,Crédito,89.75,4.49,6.60
+512-98-1403,Assaí,Taguatinga,Membro,Tecnologia,26.48,3.00,3/21/2019,10.4,Pix,79.44,3.97,4.70
+514-37-2845,Big Box,Ceilândia,Normal,Acessórios,99.25,2.00,3/20/2019,13.02,Dinheiro,198.50,9.93,9.00
+516-77-6464,Carrefour,Sobradinho,Membro,Saúde e Beleza,10.16,5.00,2/24/2019,13.08,Pix,50.80,2.54,4.10
+518-17-2983,Assaí,Taguatinga,Normal,Acessórios,48.63,4.00,2/4/2019,15.44,Pix,194.52,9.73,7.60
+518-71-6847,Big Box,Ceilândia,Membro,Alimentos e Bedidas,26.60,6.00,2/26/2019,15.1,Pix,159.60,7.98,4.90
+521-18-7827,Carrefour,Sobradinho,Membro,Utensílios paraCasa,39.39,5.00,1/22/2019,20.46,Crédito,196.95,9.85,8.70
+522-57-8364,Assaí,Taguatinga,Membro,Acessórios,51.34,8.00,1/31/2019,10,Pix,410.72,20.54,7.60
+523-38-0215,Carrefour,Sobradinho,Normal,Utensílios paraCasa,37.00,1.00,3/6/2019,13.29,Crédito,37.00,1.85,7.90
+525-09-8450,Big Box,Ceilândia,Normal,Tecnologia,72.13,10.00,1/31/2019,15.12,Crédito,721.30,36.07,4.20
+525-88-7307,Big Box,Ceilândia,Membro,Esportes,75.82,1.00,1/31/2019,13.19,Dinheiro,75.82,3.79,5.80
+526-86-8552,Carrefour,Sobradinho,Membro,Utensílios paraCasa,21.82,10.00,1/7/2019,17.36,Dinheiro,218.20,10.91,7.10
+527-09-6272,Assaí,Taguatinga,Membro,Tecnologia,28.45,5.00,3/21/2019,10.17,Crédito,142.25,7.11,9.10
+528-14-9470,Assaí,Taguatinga,Membro,Saúde e Beleza,91.30,1.00,2/14/2019,14.42,Pix,91.30,4.57,9.20
+528-87-5606,Big Box,Ceilândia,Membro,Tecnologia,39.48,1.00,2/12/2019,19.43,Dinheiro,39.48,1.97,6.50
+529-56-3974,Big Box,Ceilândia,Membro,Tecnologia,25.51,4.00,3/9/2019,17.03,Dinheiro,102.04,5.10,6.80
+530-90-9855,Assaí,Taguatinga,Membro,Utensílios paraCasa,47.59,8.00,1/1/2019,14.47,Dinheiro,380.72,19.04,5.70
+531-56-4728,Assaí,Taguatinga,Normal,Utensílios paraCasa,80.08,3.00,2/11/2019,15.29,Dinheiro,240.24,12.01,5.40
+531-80-1784,Assaí,Taguatinga,Normal,Tecnologia,26.02,7.00,3/28/2019,17.38,Dinheiro,182.14,9.11,5.10
+532-59-7201,Big Box,Ceilândia,Membro,Esportes,79.93,6.00,1/31/2019,14.04,Dinheiro,479.58,23.98,5.50
+533-33-5337,Big Box,Ceilândia,Normal,Tecnologia,79.39,10.00,2/7/2019,20.24,Dinheiro,793.90,39.70,6.20
+533-66-5566,Big Box,Ceilândia,Normal,Utensílios paraCasa,51.07,7.00,1/12/2019,11.42,Dinheiro,357.49,17.87,7.00
+534-01-4457,Assaí,Taguatinga,Normal,Alimentos e Bedidas,81.71,6.00,1/27/2019,14.36,Crédito,490.26,24.51,8.00
+534-53-3526,Assaí,Taguatinga,Normal,Esportes,94.76,4.00,2/11/2019,16.06,Pix,379.04,18.95,7.80
+537-72-0426,Carrefour,Sobradinho,Membro,Acessórios,70.99,10.00,3/20/2019,16.28,Dinheiro,709.90,35.50,5.70
+538-22-0304,Carrefour,Sobradinho,Normal,Tecnologia,64.95,10.00,3/24/2019,18.27,Dinheiro,649.50,32.48,5.20
+539-21-7227,Big Box,Ceilândia,Normal,Esportes,51.54,5.00,1/26/2019,17.45,Dinheiro,257.70,12.89,4.20
+540-11-4336,Assaí,Taguatinga,Normal,Alimentos e Bedidas,24.94,9.00,1/11/2019,16.49,Crédito,224.46,11.22,5.60
+541-08-3113,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,65.97,8.00,2/2/2019,20.29,Dinheiro,527.76,26.39,8.40
+541-48-8554,Assaí,Taguatinga,Normal,Esportes,60.95,9.00,1/7/2019,12.08,Crédito,548.55,27.43,6.00
+541-89-9860,Carrefour,Sobradinho,Membro,Acessórios,80.48,3.00,2/15/2019,12.31,Dinheiro,241.44,12.07,8.10
+542-41-0513,Big Box,Ceilândia,Membro,Tecnologia,57.49,4.00,3/15/2019,11.57,Dinheiro,229.96,11.50,6.60
+544-32-5024,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,49.79,4.00,3/28/2019,19.16,Crédito,199.16,9.96,6.40
+544-55-9589,Big Box,Ceilândia,Membro,Tecnologia,21.43,10.00,1/28/2019,11.51,Dinheiro,214.30,10.72,6.20
+545-07-8534,Carrefour,Sobradinho,Normal,Saúde e Beleza,58.32,2.00,2/14/2019,12.42,Pix,116.64,5.83,6.00
+545-46-3100,Big Box,Ceilândia,Membro,Tecnologia,10.59,3.00,3/12/2019,13.52,Crédito,31.77,1.59,8.70
+546-80-2899,Assaí,Taguatinga,Membro,Utensílios paraCasa,37.69,2.00,2/20/2019,15.29,Pix,75.38,3.77,9.50
+548-46-9322,Big Box,Ceilândia,Normal,Alimentos e Bedidas,39.90,10.00,2/20/2019,15.24,Crédito,399.00,19.95,5.90
+548-48-3156,Assaí,Taguatinga,Membro,Alimentos e Bedidas,83.34,2.00,3/19/2019,13.37,Dinheiro,166.68,8.33,7.60
+549-03-9315,Big Box,Ceilândia,Normal,Acessórios,94.87,8.00,2/12/2019,12.58,Pix,758.96,37.95,8.70
+549-23-9016,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,14.87,2.00,2/13/2019,18.15,Crédito,29.74,1.49,8.90
+549-59-1358,Assaí,Taguatinga,Membro,Esportes,88.63,3.00,3/2/2019,17.36,Pix,265.89,13.29,6.00
+549-84-7482,Big Box,Ceilândia,Normal,Esportes,90.28,9.00,2/8/2019,11.15,Pix,812.52,40.63,7.20
+549-96-4200,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,17.04,4.00,3/8/2019,20.15,Pix,68.16,3.41,7.00
+550-84-8664,Assaí,Taguatinga,Normal,Esportes,85.91,5.00,3/22/2019,14.33,Crédito,429.55,21.48,8.60
+551-21-3069,Carrefour,Sobradinho,Normal,Tecnologia,23.07,9.00,2/1/2019,11.27,Dinheiro,207.63,10.38,4.90
+552-44-5977,Big Box,Ceilândia,Membro,Saúde e Beleza,62.00,8.00,1/3/2019,19.08,Crédito,496.00,24.80,6.20
+554-42-2417,Carrefour,Sobradinho,Normal,Esportes,95.44,10.00,1/9/2019,13.45,Dinheiro,954.40,47.72,5.20
+554-53-3790,Big Box,Ceilândia,Normal,Esportes,37.02,6.00,3/22/2019,18.33,Dinheiro,222.12,11.11,4.50
+554-53-8700,Carrefour,Sobradinho,Membro,Utensílios paraCasa,56.11,2.00,2/2/2019,10.11,Dinheiro,112.22,5.61,6.30
+556-41-6224,Carrefour,Sobradinho,Normal,Saúde e Beleza,33.64,8.00,2/15/2019,17.1,Crédito,269.12,13.46,9.30
+556-72-8512,Carrefour,Sobradinho,Normal,Utensílios paraCasa,22.96,1.00,1/30/2019,20.47,Dinheiro,22.96,1.15,4.30
+556-86-3144,Carrefour,Sobradinho,Membro,Acessórios,74.29,1.00,1/13/2019,19.3,Dinheiro,74.29,3.71,5.00
+556-97-7101,Carrefour,Sobradinho,Normal,Tecnologia,63.22,2.00,1/1/2019,15.51,Dinheiro,126.44,6.32,8.50
+558-60-5016,Assaí,Taguatinga,Normal,Utensílios paraCasa,33.30,9.00,3/4/2019,15.27,Pix,299.70,14.99,7.20
+558-80-4082,Carrefour,Sobradinho,Normal,Tecnologia,27.85,7.00,3/14/2019,17.2,Pix,194.95,9.75,6.00
+559-61-5987,Big Box,Ceilândia,Normal,Saúde e Beleza,17.75,1.00,1/14/2019,10.38,Dinheiro,17.75,0.89,8.60
+559-98-9873,Assaí,Taguatinga,Membro,Acessórios,53.65,7.00,2/10/2019,12.56,Pix,375.55,18.78,5.20
+560-30-5617,Big Box,Ceilândia,Normal,Esportes,24.77,5.00,3/24/2019,18.27,Dinheiro,123.85,6.19,8.50
+560-49-6611,Assaí,Taguatinga,Membro,Esportes,45.58,1.00,2/7/2019,14.13,Dinheiro,45.58,2.28,9.80
+562-12-5430,Assaí,Taguatinga,Membro,Acessórios,88.15,3.00,1/18/2019,10.11,Pix,264.45,13.22,7.90
+563-36-9814,Assaí,Taguatinga,Membro,Tecnologia,76.82,1.00,2/13/2019,18.27,Pix,76.82,3.84,7.20
+563-47-4072,Big Box,Ceilândia,Normal,Saúde e Beleza,55.81,6.00,1/22/2019,11.52,Dinheiro,334.86,16.74,9.90
+563-91-7120,Assaí,Taguatinga,Normal,Acessórios,61.77,5.00,3/8/2019,13.21,Dinheiro,308.85,15.44,6.70
+565-17-3836,Assaí,Taguatinga,Membro,Saúde e Beleza,47.67,4.00,3/12/2019,14.21,Dinheiro,190.68,9.53,9.10
+565-67-6697,Big Box,Ceilândia,Membro,Utensílios paraCasa,27.00,9.00,3/2/2019,14.16,Dinheiro,243.00,12.15,4.80
+565-80-5980,Carrefour,Sobradinho,Membro,Utensílios paraCasa,47.38,4.00,1/23/2019,10.25,Dinheiro,189.52,9.48,7.10
+565-91-4567,Big Box,Ceilândia,Normal,Saúde e Beleza,10.75,8.00,3/15/2019,14.38,Pix,86.00,4.30,6.20
+566-19-5475,Big Box,Ceilândia,Normal,Acessórios,47.97,7.00,1/7/2019,20.52,Dinheiro,335.79,16.79,6.20
+566-71-1091,Assaí,Taguatinga,Normal,Acessórios,77.02,5.00,2/3/2019,15.59,Dinheiro,385.10,19.26,5.50
+568-88-3448,Assaí,Taguatinga,Normal,Saúde e Beleza,25.00,1.00,3/3/2019,15.09,Pix,25.00,1.25,5.50
+568-90-5112,Carrefour,Sobradinho,Normal,Saúde e Beleza,66.14,4.00,3/19/2019,12.46,Crédito,264.56,13.23,5.60
+569-71-4390,Big Box,Ceilândia,Normal,Esportes,21.87,2.00,1/25/2019,14.29,Pix,43.74,2.19,6.90
+569-76-2760,Assaí,Taguatinga,Membro,Esportes,22.01,4.00,1/29/2019,18.15,Crédito,88.04,4.40,6.60
+571-94-0759,Big Box,Ceilândia,Membro,Alimentos e Bedidas,74.60,10.00,1/8/2019,20.55,Dinheiro,746.00,37.30,9.50
+573-10-3877,Big Box,Ceilândia,Membro,Saúde e Beleza,39.01,1.00,3/12/2019,16.46,Crédito,39.01,1.95,4.70
+573-58-9734,Big Box,Ceilândia,Normal,Acessórios,30.37,3.00,3/28/2019,13.41,Pix,91.11,4.56,5.10
+573-98-8548,Carrefour,Sobradinho,Membro,Acessórios,31.90,1.00,1/5/2019,12.4,Pix,31.90,1.60,9.10
+574-22-5561,Carrefour,Sobradinho,Membro,Acessórios,82.63,10.00,3/19/2019,17.08,Pix,826.30,41.32,7.90
+574-31-8277,Big Box,Ceilândia,Membro,Acessórios,33.63,1.00,3/20/2019,19.55,Dinheiro,33.63,1.68,5.60
+574-57-9721,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,43.27,2.00,3/8/2019,16.53,Pix,86.54,4.33,5.70
+574-80-1489,Big Box,Ceilândia,Membro,Alimentos e Bedidas,62.85,4.00,2/25/2019,13.22,Pix,251.40,12.57,8.70
+575-30-8091,Assaí,Taguatinga,Normal,Esportes,72.50,8.00,3/16/2019,19.25,Pix,580.00,29.00,9.20
+575-67-1508,Assaí,Taguatinga,Normal,Tecnologia,38.60,1.00,1/29/2019,11.26,Pix,38.60,1.93,6.70
+576-31-4774,Big Box,Ceilândia,Normal,Saúde e Beleza,73.41,3.00,3/2/2019,13.1,Pix,220.23,11.01,4.00
+577-34-7579,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,50.49,9.00,1/10/2019,17.16,Dinheiro,454.41,22.72,5.40
+578-80-7669,Big Box,Ceilândia,Normal,Esportes,74.97,1.00,3/16/2019,16.58,Dinheiro,74.97,3.75,5.60
+582-52-8065,Big Box,Ceilândia,Normal,Acessórios,54.31,9.00,2/22/2019,10.49,Dinheiro,488.79,24.44,8.90
+583-41-4548,Carrefour,Sobradinho,Normal,Utensílios paraCasa,16.67,7.00,2/7/2019,11.36,Pix,116.69,5.83,7.40
+583-72-1480,Carrefour,Sobradinho,Membro,Tecnologia,37.06,4.00,1/31/2019,16.24,Pix,148.24,7.41,9.70
+584-66-4073,Carrefour,Sobradinho,Normal,Acessórios,56.50,1.00,3/13/2019,15.45,Pix,56.50,2.83,9.60
+584-86-7256,Carrefour,Sobradinho,Membro,Esportes,34.56,7.00,3/11/2019,16.07,Crédito,241.92,12.10,7.30
+585-03-5943,Big Box,Ceilândia,Normal,Saúde e Beleza,18.11,10.00,3/13/2019,11.46,Pix,181.10,09.06,5.90
+585-11-6748,Big Box,Ceilândia,Membro,Esportes,96.80,3.00,3/15/2019,13.05,Dinheiro,290.40,14.52,5.30
+585-86-8361,Assaí,Taguatinga,Normal,Alimentos e Bedidas,27.28,5.00,2/3/2019,10.31,Crédito,136.40,6.82,8.60
+585-90-0249,Assaí,Taguatinga,Membro,Tecnologia,73.26,1.00,1/27/2019,18.08,Pix,73.26,3.66,9.70
+586-25-0848,Assaí,Taguatinga,Normal,Esportes,12.34,7.00,3/4/2019,11.19,Crédito,86.38,4.32,6.70
+587-03-7455,Carrefour,Sobradinho,Membro,Acessórios,97.79,7.00,2/16/2019,17.3,Pix,684.53,34.23,4.90
+587-73-4862,Assaí,Taguatinga,Membro,Saúde e Beleza,10.69,5.00,3/26/2019,11.07,Pix,53.45,2.67,7.60
+588-01-7461,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,33.98,9.00,3/24/2019,10.43,Dinheiro,305.82,15.29,4.20
+588-47-8641,Assaí,Taguatinga,Membro,Acessórios,56.04,10.00,1/14/2019,19.3,Pix,560.40,28.02,4.40
+589-02-8023,Assaí,Taguatinga,Membro,Alimentos e Bedidas,83.77,2.00,1/15/2019,10.54,Crédito,167.54,8.38,7.00
+590-83-4591,Big Box,Ceilândia,Membro,Tecnologia,87.45,6.00,2/17/2019,14.4,Crédito,524.70,26.24,8.80
+592-34-6155,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,31.77,4.00,1/14/2019,14.43,Pix,127.08,6.35,6.20
+592-46-1692,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,36.77,7.00,1/11/2019,20.1,Dinheiro,257.39,12.87,7.40
+593-08-5916,Assaí,Taguatinga,Normal,Acessórios,15.50,1.00,3/19/2019,15.23,Crédito,15.50,0.78,7.40
+593-14-4239,Big Box,Ceilândia,Normal,Utensílios paraCasa,95.46,8.00,3/5/2019,19.4,Pix,763.68,38.18,4.70
+593-65-1552,Carrefour,Sobradinho,Normal,Utensílios paraCasa,69.81,4.00,1/28/2019,20.5,Crédito,279.24,13.96,5.90
+593-95-4461,Carrefour,Sobradinho,Membro,Utensílios paraCasa,74.86,1.00,3/24/2019,14.49,Dinheiro,74.86,3.74,6.90
+594-34-4444,Assaí,Taguatinga,Normal,Tecnologia,97.16,1.00,3/8/2019,20.38,Pix,97.16,4.86,7.20
+595-11-5460,Assaí,Taguatinga,Normal,Saúde e Beleza,96.58,2.00,3/15/2019,10.12,Crédito,193.16,9.66,5.10
+595-27-4851,Assaí,Taguatinga,Normal,Acessórios,54.28,7.00,1/27/2019,18.05,Pix,379.96,19.00,9.30
+595-86-2894,Carrefour,Sobradinho,Membro,Acessórios,96.98,4.00,2/6/2019,17.2,Pix,387.92,19.40,9.40
+595-94-9924,Assaí,Taguatinga,Membro,Saúde e Beleza,27.73,5.00,3/26/2019,20.21,Crédito,138.65,6.93,4.20
+596-42-3999,Big Box,Ceilândia,Normal,Alimentos e Bedidas,18.22,7.00,3/10/2019,14.04,Crédito,127.54,6.38,6.60
+597-78-7908,Carrefour,Sobradinho,Normal,Acessórios,90.22,3.00,2/18/2019,19.39,Dinheiro,270.66,13.53,6.20
+598-06-7312,Big Box,Ceilândia,Membro,Acessórios,91.35,1.00,2/16/2019,15.42,Dinheiro,91.35,4.57,6.80
+598-47-9715,Carrefour,Sobradinho,Normal,Tecnologia,84.07,4.00,3/7/2019,16.54,Pix,336.28,16.81,4.40
+600-38-9738,Carrefour,Sobradinho,Membro,Esportes,71.92,5.00,1/17/2019,15.05,Crédito,359.60,17.98,4.30
+602-16-6955,Big Box,Ceilândia,Normal,Esportes,76.60,10.00,1/24/2019,18.1,Pix,766.00,38.30,6.00
+602-80-9671,Carrefour,Sobradinho,Membro,Utensílios paraCasa,15.95,6.00,2/9/2019,17.15,Crédito,95.70,4.79,5.10
+603-07-0961,Carrefour,Sobradinho,Membro,Tecnologia,74.79,5.00,1/10/2019,11.34,Dinheiro,373.95,18.70,4.90
+604-70-6476,Assaí,Taguatinga,Membro,Acessórios,17.94,5.00,1/23/2019,14.04,Pix,89.70,4.49,6.80
+605-03-2706,Assaí,Taguatinga,Normal,Saúde e Beleza,15.80,3.00,3/25/2019,18.02,Dinheiro,47.40,2.37,9.50
+605-72-4132,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,94.47,8.00,2/27/2019,15.12,Dinheiro,755.76,37.79,9.10
+605-83-1050,Big Box,Ceilândia,Normal,Acessórios,27.18,2.00,3/15/2019,16.26,Pix,54.36,2.72,4.30
+606-80-4905,Carrefour,Sobradinho,Membro,Esportes,19.15,6.00,1/29/2019,10.01,Crédito,114.90,5.75,6.80
+607-65-2441,Carrefour,Sobradinho,Membro,Saúde e Beleza,81.95,10.00,3/10/2019,12.39,Crédito,819.50,40.98,6.00
+607-76-6216,Carrefour,Sobradinho,Membro,Acessórios,92.49,5.00,3/2/2019,16.35,Crédito,462.45,23.12,8.60
+608-04-3797,Big Box,Ceilândia,Membro,Saúde e Beleza,25.32,8.00,3/5/2019,20.24,Pix,202.56,10.13,8.70
+608-05-3804,Big Box,Ceilândia,Membro,Tecnologia,39.75,1.00,2/25/2019,20.19,Dinheiro,39.75,1.99,6.10
+608-27-6295,Big Box,Ceilândia,Membro,Tecnologia,52.89,6.00,1/19/2019,17.34,Crédito,317.34,15.87,9.80
+608-96-3517,Big Box,Ceilândia,Membro,Acessórios,91.54,4.00,3/23/2019,19.2,Crédito,366.16,18.31,4.80
+609-81-8548,Assaí,Taguatinga,Membro,Utensílios paraCasa,37.44,6.00,2/6/2019,13.55,Crédito,224.64,11.23,5.90
+610-46-4100,Assaí,Taguatinga,Normal,Saúde e Beleza,28.95,7.00,3/3/2019,20.31,Crédito,202.65,10.13,6.00
+612-36-5536,Assaí,Taguatinga,Membro,Alimentos e Bedidas,80.96,8.00,2/17/2019,11.12,Crédito,647.68,32.38,7.40
+613-59-9758,Carrefour,Sobradinho,Normal,Esportes,14.36,10.00,1/27/2019,14.28,Dinheiro,143.60,7.18,5.40
+616-24-2851,Big Box,Ceilândia,Membro,Acessórios,17.87,4.00,3/22/2019,14.42,Pix,71.48,3.57,6.50
+616-87-0016,Big Box,Ceilândia,Normal,Acessórios,95.54,7.00,3/9/2019,14.36,Crédito,668.78,33.44,9.60
+617-15-4209,Carrefour,Sobradinho,Membro,Saúde e Beleza,15.37,2.00,3/16/2019,19.47,Dinheiro,30.74,1.54,7.20
+618-34-8551,Assaí,Taguatinga,Normal,Esportes,93.18,2.00,1/16/2019,18.41,Crédito,186.36,9.32,8.50
+620-02-2046,Carrefour,Sobradinho,Normal,Utensílios paraCasa,69.40,2.00,1/27/2019,19.48,Pix,138.80,6.94,9.00
+622-20-1945,Carrefour,Sobradinho,Normal,Saúde e Beleza,39.42,1.00,1/18/2019,15.08,Dinheiro,39.42,1.97,8.40
+624-01-8356,Big Box,Ceilândia,Normal,Utensílios paraCasa,49.01,10.00,1/27/2019,10.44,Crédito,490.10,24.51,4.20
+626-43-7888,Carrefour,Sobradinho,Normal,Acessórios,60.41,8.00,2/7/2019,12.23,Pix,483.28,24.16,9.60
+627-95-3243,Big Box,Ceilândia,Membro,Utensílios paraCasa,77.68,9.00,2/4/2019,13.21,Pix,699.12,34.96,9.80
+628-34-3388,Carrefour,Sobradinho,Normal,Acessórios,27.38,6.00,1/5/2019,20.54,Crédito,164.28,8.21,7.90
+628-90-8624,Big Box,Ceilândia,Membro,Saúde e Beleza,82.58,10.00,3/14/2019,14.41,Dinheiro,825.80,41.29,5.00
+629-42-4133,Carrefour,Sobradinho,Normal,Saúde e Beleza,21.80,8.00,2/19/2019,19.24,Dinheiro,174.40,8.72,8.30
+630-74-5166,Assaí,Taguatinga,Normal,Esportes,62.13,6.00,3/22/2019,20.19,Dinheiro,372.78,18.64,7.40
+631-34-1880,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,24.31,3.00,1/8/2019,19.09,Crédito,72.93,3.65,4.30
+631-41-3108,Assaí,Taguatinga,Normal,Utensílios paraCasa,46.33,7.00,3/3/2019,13.23,Crédito,324.31,16.22,7.40
+632-32-4574,Big Box,Ceilândia,Normal,Esportes,75.92,8.00,3/20/2019,14.14,Dinheiro,607.36,30.37,5.50
+632-90-0281,Carrefour,Sobradinho,Normal,Acessórios,37.55,10.00,3/8/2019,20.01,Crédito,375.50,18.78,9.30
+633-09-3463,Carrefour,Sobradinho,Normal,Tecnologia,47.65,3.00,3/28/2019,12.58,Crédito,142.95,7.15,9.50
+633-44-8566,Assaí,Taguatinga,Membro,Alimentos e Bedidas,49.38,7.00,3/27/2019,20.35,Crédito,345.66,17.28,7.30
+633-91-1052,Assaí,Taguatinga,Normal,Utensílios paraCasa,12.03,2.00,1/27/2019,15.51,Dinheiro,24.06,1.20,5.10
+634-97-8956,Assaí,Taguatinga,Normal,Alimentos e Bedidas,32.90,3.00,2/17/2019,17.27,Crédito,98.70,4.94,9.10
+635-28-5728,Assaí,Taguatinga,Normal,Saúde e Beleza,56.00,3.00,2/28/2019,19.33,Pix,168.00,8.40,4.80
+635-40-6220,Assaí,Taguatinga,Normal,Saúde e Beleza,89.60,8.00,2/7/2019,11.28,Pix,716.80,35.84,6.60
+636-17-0325,Big Box,Ceilândia,Normal,Saúde e Beleza,62.57,4.00,2/25/2019,18.37,Dinheiro,250.28,12.51,9.50
+636-48-8204,Assaí,Taguatinga,Normal,Tecnologia,34.56,5.00,2/17/2019,11.15,Pix,172.80,8.64,9.90
+636-98-3364,Big Box,Ceilândia,Membro,Tecnologia,26.26,3.00,3/2/2019,12.36,Pix,78.78,3.94,6.30
+638-60-7125,Assaí,Taguatinga,Normal,Tecnologia,99.56,8.00,2/14/2019,17.03,Crédito,796.48,39.82,5.20
+639-76-1242,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,40.52,5.00,2/3/2019,15.19,Dinheiro,202.60,10.13,4.50
+640-48-5028,Big Box,Ceilândia,Membro,Utensílios paraCasa,88.39,9.00,3/2/2019,12.4,Dinheiro,795.51,39.78,6.30
+640-49-2076,Big Box,Ceilândia,Normal,Esportes,83.78,8.00,1/10/2019,14.49,Dinheiro,670.24,33.51,5.10
+641-43-2399,Big Box,Ceilândia,Normal,Utensílios paraCasa,25.55,4.00,1/26/2019,20.23,Pix,102.20,5.11,5.70
+641-51-2661,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,87.10,10.00,2/12/2019,14.45,Crédito,871.00,43.55,9.90
+641-62-7288,Big Box,Ceilândia,Normal,Utensílios paraCasa,99.92,6.00,3/24/2019,13.33,Pix,599.52,29.98,7.10
+641-96-3695,Carrefour,Sobradinho,Membro,Acessórios,43.46,6.00,2/7/2019,17.55,Pix,260.76,13.04,8.50
+642-30-6693,Big Box,Ceilândia,Normal,Esportes,54.51,6.00,3/17/2019,13.54,Pix,327.06,16.35,7.80
+642-32-2990,Assaí,Taguatinga,Normal,Alimentos e Bedidas,10.96,10.00,2/2/2019,20.48,Pix,109.60,5.48,6.00
+642-61-4706,Big Box,Ceilândia,Membro,Alimentos e Bedidas,93.40,2.00,3/30/2019,16.34,Dinheiro,186.80,9.34,5.50
+643-38-7867,Assaí,Taguatinga,Normal,Utensílios paraCasa,97.94,1.00,3/7/2019,11.44,Pix,97.94,4.90,6.90
+645-44-1170,Assaí,Taguatinga,Membro,Utensílios paraCasa,58.07,9.00,1/19/2019,20.07,Pix,522.63,26.13,4.30
+645-78-8093,Assaí,Taguatinga,Normal,Esportes,93.14,2.00,1/20/2019,18.09,Pix,186.28,9.31,4.10
+647-50-1224,Assaí,Taguatinga,Normal,Acessórios,29.42,10.00,1/12/2019,16.23,Pix,294.20,14.71,8.90
+648-83-1321,Assaí,Taguatinga,Membro,Utensílios paraCasa,63.56,10.00,1/16/2019,17.59,Dinheiro,635.60,31.78,4.30
+648-94-3045,Carrefour,Sobradinho,Normal,Saúde e Beleza,58.95,10.00,2/7/2019,14.27,Pix,589.50,29.48,8.10
+649-11-3678,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,22.93,9.00,2/26/2019,20.26,Dinheiro,206.37,10.32,5.50
+649-29-6775,Big Box,Ceilândia,Normal,Acessórios,33.52,1.00,2/8/2019,15.31,Dinheiro,33.52,1.68,6.70
+650-98-6268,Big Box,Ceilândia,Membro,Alimentos e Bedidas,20.87,3.00,3/20/2019,13.53,Crédito,62.61,3.13,8.00
+651-61-0874,Carrefour,Sobradinho,Normal,Utensílios paraCasa,46.22,4.00,3/12/2019,20.04,Crédito,184.88,9.24,6.20
+651-88-7328,Assaí,Taguatinga,Normal,Acessórios,65.74,9.00,1/1/2019,13.55,Dinheiro,591.66,29.58,7.70
+651-96-5970,Assaí,Taguatinga,Normal,Acessórios,46.41,1.00,3/3/2019,20.06,Crédito,46.41,2.32,4.00
+652-43-6591,Assaí,Taguatinga,Normal,Acessórios,97.29,8.00,3/9/2019,13.18,Crédito,778.32,38.92,6.20
+652-49-6720,Carrefour,Sobradinho,Membro,Tecnologia,60.95,1.00,2/18/2019,11.4,Pix,60.95,03.05,5.90
+655-07-2265,Assaí,Taguatinga,Normal,Tecnologia,78.31,3.00,3/5/2019,16.38,Pix,234.93,11.75,5.40
+655-85-5130,Big Box,Ceilândia,Membro,Acessórios,38.30,4.00,3/13/2019,19.22,Dinheiro,153.20,7.66,5.70
+656-16-1063,Big Box,Ceilândia,Normal,Esportes,46.42,3.00,1/4/2019,13.24,Crédito,139.26,6.96,4.40
+656-95-9349,Assaí,Taguatinga,Membro,Saúde e Beleza,68.93,7.00,3/11/2019,11.03,Crédito,482.51,24.13,4.60
+658-66-3967,Carrefour,Sobradinho,Normal,Saúde e Beleza,53.19,7.00,1/14/2019,15.42,Pix,372.33,18.62,5.00
+659-36-1684,Carrefour,Sobradinho,Membro,Esportes,57.12,7.00,1/12/2019,12.02,Crédito,399.84,19.99,6.50
+659-65-8956,Big Box,Ceilândia,Membro,Acessórios,51.36,1.00,1/16/2019,15.26,Pix,51.36,2.57,5.20
+660-29-7083,Carrefour,Sobradinho,Normal,Tecnologia,55.87,10.00,1/15/2019,15.01,Dinheiro,558.70,27.94,5.80
+662-47-5456,Carrefour,Sobradinho,Membro,Acessórios,35.19,10.00,3/17/2019,19.06,Crédito,351.90,17.60,8.40
+662-72-2873,Assaí,Taguatinga,Normal,Alimentos e Bedidas,40.94,5.00,1/6/2019,13.58,Pix,204.70,10.24,9.90
+663-86-9076,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,68.54,8.00,1/8/2019,15.57,Pix,548.32,27.42,8.50
+664-14-2882,Carrefour,Sobradinho,Membro,Utensílios paraCasa,10.53,5.00,1/30/2019,14.43,Crédito,52.65,2.63,5.80
+665-32-9167,Assaí,Taguatinga,Membro,Saúde e Beleza,36.26,2.00,1/10/2019,17.15,Crédito,72.52,3.63,7.20
+665-63-9737,Big Box,Ceilândia,Normal,Acessórios,52.42,3.00,2/27/2019,17.36,Pix,157.26,7.86,7.50
+667-23-5919,Assaí,Taguatinga,Membro,Acessórios,96.70,5.00,1/14/2019,12.52,Pix,483.50,24.18,7.00
+667-92-0055,Assaí,Taguatinga,Membro,Saúde e Beleza,99.83,6.00,3/4/2019,15.02,Pix,598.98,29.95,8.50
+668-90-8900,Assaí,Taguatinga,Normal,Utensílios paraCasa,93.69,7.00,3/10/2019,18.44,Crédito,655.83,32.79,4.50
+669-54-1719,Big Box,Ceilândia,Membro,Tecnologia,18.93,6.00,2/10/2019,12.45,Crédito,113.58,5.68,8.10
+670-71-7306,Big Box,Ceilândia,Normal,Esportes,44.63,6.00,1/2/2019,20.08,Crédito,267.78,13.39,5.10
+670-79-6321,Big Box,Ceilândia,Membro,Utensílios paraCasa,94.59,7.00,1/17/2019,15.27,Crédito,662.13,33.11,4.90
+672-51-8681,Carrefour,Sobradinho,Membro,Tecnologia,66.65,9.00,1/4/2019,18.19,Crédito,599.85,29.99,9.70
+674-15-9296,Assaí,Taguatinga,Normal,Esportes,37.14,5.00,1/8/2019,13.05,Pix,185.70,9.29,5.00
+674-56-6360,Assaí,Taguatinga,Normal,Tecnologia,95.15,1.00,3/22/2019,14,Dinheiro,95.15,4.76,6.00
+676-10-2200,Big Box,Ceilândia,Membro,Acessórios,53.78,1.00,2/3/2019,20.13,Pix,53.78,2.69,4.70
+676-39-6028,Assaí,Taguatinga,Membro,Tecnologia,64.44,5.00,3/30/2019,17.04,Dinheiro,322.20,16.11,6.60
+677-11-0152,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,93.26,9.00,1/16/2019,18.08,Dinheiro,839.34,41.97,8.80
+678-79-0726,Carrefour,Sobradinho,Membro,Esportes,90.63,9.00,1/18/2019,15.28,Dinheiro,815.67,40.78,5.10
+679-22-6530,Big Box,Ceilândia,Normal,Esportes,40.62,2.00,1/17/2019,10.01,Crédito,81.24,04.06,4.10
+685-64-1609,Assaí,Taguatinga,Membro,Acessórios,30.14,10.00,2/10/2019,12.28,Pix,301.40,15.07,9.20
+686-41-0932,Big Box,Ceilândia,Normal,Acessórios,34.70,2.00,3/13/2019,19.48,Pix,69.40,3.47,8.20
+687-15-1097,Carrefour,Sobradinho,Membro,Saúde e Beleza,21.12,2.00,1/3/2019,19.17,Dinheiro,42.24,2.11,9.70
+687-47-8271,Assaí,Taguatinga,Normal,Acessórios,98.98,10.00,2/8/2019,16.2,Crédito,989.80,49.49,8.70
+689-05-1884,Assaí,Taguatinga,Membro,Saúde e Beleza,48.63,10.00,3/4/2019,12.44,Dinheiro,486.30,24.32,8.80
+689-16-9784,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,46.77,6.00,3/11/2019,13.37,Dinheiro,280.62,14.03,6.00
+690-01-6631,Big Box,Ceilândia,Normal,Acessórios,17.49,10.00,2/22/2019,18.35,Pix,174.90,8.75,6.60
+692-27-8933,Big Box,Ceilândia,Normal,Esportes,57.95,6.00,2/24/2019,13.02,Dinheiro,347.70,17.39,5.20
+692-92-5582,Big Box,Ceilândia,Membro,Alimentos e Bedidas,54.84,3.00,2/20/2019,13.27,Crédito,164.52,8.23,5.90
+695-09-5146,Big Box,Ceilândia,Membro,Alimentos e Bedidas,98.79,3.00,2/23/2019,20,Pix,296.37,14.82,6.40
+695-28-6250,Assaí,Taguatinga,Normal,Esportes,43.06,5.00,2/4/2019,16.38,Pix,215.30,10.77,7.70
+695-51-0018,Big Box,Ceilândia,Normal,Esportes,34.84,4.00,2/10/2019,18.36,Dinheiro,139.36,6.97,7.40
+696-90-2548,Assaí,Taguatinga,Normal,Esportes,25.84,3.00,3/10/2019,18.55,Pix,77.52,3.88,6.60
+698-98-5964,Assaí,Taguatinga,Normal,Alimentos e Bedidas,81.21,10.00,1/17/2019,13.01,Crédito,812.10,40.61,6.30
+699-01-4164,Carrefour,Sobradinho,Normal,Saúde e Beleza,41.50,4.00,3/12/2019,19.58,Crédito,166.00,8.30,8.20
+699-14-3026,Carrefour,Sobradinho,Normal,Tecnologia,85.39,7.00,3/25/2019,18.3,Pix,597.73,29.89,4.10
+699-88-1972,Big Box,Ceilândia,Normal,Saúde e Beleza,99.16,8.00,1/28/2019,17.47,Crédito,793.28,39.66,4.20
+700-81-1757,Assaí,Taguatinga,Normal,Tecnologia,26.31,5.00,1/18/2019,20.59,Crédito,131.55,6.58,8.80
+701-23-5550,Big Box,Ceilândia,Membro,Utensílios paraCasa,38.81,4.00,3/19/2019,13.4,Pix,155.24,7.76,4.90
+701-69-8742,Big Box,Ceilândia,Normal,Esportes,34.37,10.00,3/16/2019,10.11,Pix,343.70,17.19,6.70
+702-72-0487,Assaí,Taguatinga,Normal,Tecnologia,46.61,2.00,2/26/2019,12.28,Crédito,93.22,4.66,6.60
+702-83-5291,Carrefour,Sobradinho,Membro,Acessórios,99.82,9.00,3/27/2019,10.43,Dinheiro,898.38,44.92,6.60
+704-10-4056,Carrefour,Sobradinho,Membro,Saúde e Beleza,60.47,3.00,1/14/2019,10.55,Crédito,181.41,09.07,5.60
+704-11-6354,Assaí,Taguatinga,Membro,Utensílios paraCasa,58.90,8.00,1/6/2019,11.23,Dinheiro,471.20,23.56,8.90
+704-20-4138,Carrefour,Sobradinho,Membro,Saúde e Beleza,29.67,7.00,3/11/2019,18.58,Crédito,207.69,10.38,8.10
+704-48-3927,Assaí,Taguatinga,Membro,Tecnologia,88.67,10.00,1/12/2019,14.5,Pix,886.70,44.34,7.30
+706-36-6154,Assaí,Taguatinga,Membro,Utensílios paraCasa,19.36,9.00,1/18/2019,18.43,Pix,174.24,8.71,8.70
+707-32-7409,Big Box,Ceilândia,Membro,Esportes,95.54,4.00,2/26/2019,11.58,Pix,382.16,19.11,4.50
+709-58-4068,Big Box,Ceilândia,Normal,Acessórios,41.09,10.00,2/28/2019,14.42,Dinheiro,410.90,20.55,7.30
+710-46-4433,Big Box,Ceilândia,Membro,Alimentos e Bedidas,77.40,9.00,2/15/2019,14.15,Crédito,696.60,34.83,4.50
+711-31-1234,Big Box,Ceilândia,Normal,Tecnologia,95.64,4.00,3/16/2019,18.51,Dinheiro,382.56,19.13,7.90
+712-39-0363,Assaí,Taguatinga,Membro,Alimentos e Bedidas,41.66,6.00,1/2/2019,15.24,Pix,249.96,12.50,5.60
+714-02-3114,Carrefour,Sobradinho,Normal,Esportes,98.80,2.00,2/21/2019,11.39,Dinheiro,197.60,9.88,7.70
+715-20-1673,Big Box,Ceilândia,Normal,Tecnologia,28.38,5.00,3/6/2019,20.57,Dinheiro,141.90,7.10,9.40
+716-39-1409,Big Box,Ceilândia,Normal,Saúde e Beleza,30.35,7.00,3/19/2019,18.19,Dinheiro,212.45,10.62,8.00
+717-96-4189,Carrefour,Sobradinho,Normal,Tecnologia,35.49,6.00,2/2/2019,12.4,Dinheiro,212.94,10.65,4.10
+718-57-9773,Carrefour,Sobradinho,Normal,Esportes,49.33,10.00,2/3/2019,16.4,Crédito,493.30,24.67,9.40
+719-76-3868,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,94.26,4.00,3/12/2019,16.3,Dinheiro,377.04,18.85,8.60
+719-89-8991,Assaí,Taguatinga,Membro,Esportes,91.41,5.00,2/25/2019,16.03,Pix,457.05,22.85,7.10
+720-72-2436,Assaí,Taguatinga,Normal,Alimentos e Bedidas,66.52,4.00,3/2/2019,18.14,Pix,266.08,13.30,6.90
+721-86-6247,Assaí,Taguatinga,Normal,Utensílios paraCasa,63.42,8.00,3/11/2019,12.55,Pix,507.36,25.37,7.40
+722-13-2115,Carrefour,Sobradinho,Membro,Esportes,42.85,1.00,3/14/2019,15.36,Crédito,42.85,2.14,9.30
+725-32-9708,Big Box,Ceilândia,Membro,Acessórios,68.71,4.00,1/4/2019,19.01,Dinheiro,274.84,13.74,4.10
+725-54-0677,Carrefour,Sobradinho,Membro,Saúde e Beleza,85.60,7.00,3/2/2019,13.5,Dinheiro,599.20,29.96,5.30
+725-56-0833,Assaí,Taguatinga,Normal,Saúde e Beleza,32.32,10.00,2/20/2019,16.49,Crédito,323.20,16.16,10.00
+725-67-2480,Big Box,Ceilândia,Membro,Acessórios,58.75,6.00,3/24/2019,18.14,Crédito,352.50,17.63,5.90
+725-96-3778,Carrefour,Sobradinho,Membro,Utensílios paraCasa,89.25,8.00,1/20/2019,10.13,Dinheiro,714.00,35.70,4.70
+726-27-2396,Assaí,Taguatinga,Normal,Saúde e Beleza,77.50,5.00,1/24/2019,20.36,Pix,387.50,19.38,4.30
+726-29-6793,Assaí,Taguatinga,Membro,Tecnologia,24.18,8.00,1/28/2019,20.54,Pix,193.44,9.67,9.80
+727-02-1313,Assaí,Taguatinga,Membro,Alimentos e Bedidas,31.84,1.00,2/9/2019,13.22,Dinheiro,31.84,1.59,7.70
+727-17-0390,Assaí,Taguatinga,Normal,Alimentos e Bedidas,63.61,5.00,3/16/2019,12.43,Pix,318.05,15.90,4.80
+727-46-3608,Big Box,Ceilândia,Membro,Alimentos e Bedidas,20.01,9.00,2/6/2019,15.47,Pix,180.09,9.00,4.10
+727-75-6477,Carrefour,Sobradinho,Normal,Tecnologia,28.84,4.00,3/29/2019,14.44,Dinheiro,115.36,5.77,6.40
+728-47-9078,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,59.59,4.00,1/19/2019,12.46,Dinheiro,238.36,11.92,9.80
+728-88-7867,Carrefour,Sobradinho,Membro,Utensílios paraCasa,75.53,4.00,3/19/2019,15.52,Pix,302.12,15.11,8.30
+729-06-2010,Big Box,Ceilândia,Membro,Saúde e Beleza,80.47,9.00,1/6/2019,11.18,Dinheiro,724.23,36.21,9.20
+729-09-9681,Assaí,Taguatinga,Membro,Utensílios paraCasa,25.91,6.00,2/5/2019,10.16,Pix,155.46,7.77,8.70
+729-46-7422,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,35.89,1.00,2/23/2019,16.52,Crédito,35.89,1.79,7.90
+730-50-9884,Carrefour,Sobradinho,Normal,Esportes,83.06,7.00,3/5/2019,14.31,Pix,581.42,29.07,4.00
+730-61-8757,Big Box,Ceilândia,Membro,Saúde e Beleza,51.13,4.00,1/25/2019,10.11,Crédito,204.52,10.23,4.00
+730-70-9830,Carrefour,Sobradinho,Normal,Utensílios paraCasa,70.11,6.00,3/14/2019,17.54,Pix,420.66,21.03,5.20
+731-14-2199,Assaí,Taguatinga,Membro,Utensílios paraCasa,35.54,10.00,1/4/2019,13.34,Pix,355.40,17.77,7.00
+731-59-7531,Big Box,Ceilândia,Membro,Saúde e Beleza,72.57,8.00,3/30/2019,17.58,Dinheiro,580.56,29.03,4.60
+731-81-9469,Carrefour,Sobradinho,Membro,Esportes,89.80,10.00,1/23/2019,13,Crédito,898.00,44.90,5.40
+732-04-5373,Big Box,Ceilândia,Membro,Utensílios paraCasa,46.47,4.00,2/8/2019,10.53,Dinheiro,185.88,9.29,7.00
+732-67-5346,Assaí,Taguatinga,Normal,Alimentos e Bedidas,13.79,5.00,1/11/2019,19.07,Crédito,68.95,3.45,7.80
+732-94-0499,Carrefour,Sobradinho,Normal,Tecnologia,41.65,10.00,1/13/2019,17.04,Crédito,416.50,20.83,5.40
+733-01-9107,Big Box,Ceilândia,Normal,Utensílios paraCasa,82.70,6.00,3/5/2019,18.14,Dinheiro,496.20,24.81,7.40
+733-29-1227,Carrefour,Sobradinho,Normal,Utensílios paraCasa,55.61,7.00,3/23/2019,12.41,Dinheiro,389.27,19.46,8.50
+733-33-4967,Carrefour,Sobradinho,Normal,Tecnologia,20.85,8.00,3/3/2019,19.17,Dinheiro,166.80,8.34,6.30
+734-91-1155,Big Box,Ceilândia,Normal,Tecnologia,45.71,3.00,3/26/2019,10.34,Crédito,137.13,6.86,7.70
+735-06-4124,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,48.61,1.00,2/25/2019,15.31,Dinheiro,48.61,2.43,4.40
+735-32-9839,Carrefour,Sobradinho,Membro,Acessórios,98.70,8.00,1/31/2019,10.36,Pix,789.60,39.48,8.50
+737-88-5876,Assaí,Taguatinga,Membro,Utensílios paraCasa,23.29,4.00,3/19/2019,11.52,Crédito,93.16,4.66,5.90
+740-11-5257,Carrefour,Sobradinho,Normal,Tecnologia,24.74,10.00,2/24/2019,16.44,Dinheiro,247.40,12.37,7.10
+740-22-2500,Carrefour,Sobradinho,Normal,Tecnologia,84.05,3.00,1/23/2019,13.29,Dinheiro,252.15,12.61,9.80
+741-73-3559,Big Box,Ceilândia,Normal,Esportes,67.27,5.00,2/27/2019,17.27,Dinheiro,336.35,16.82,6.90
+742-04-5161,Assaí,Taguatinga,Membro,Utensílios paraCasa,72.78,10.00,2/3/2019,17.24,Dinheiro,727.80,36.39,7.30
+743-04-1105,Big Box,Ceilândia,Membro,Saúde e Beleza,97.22,9.00,3/30/2019,14.43,Pix,874.98,43.75,6.00
+743-88-1662,Carrefour,Sobradinho,Normal,Esportes,95.49,7.00,2/22/2019,18.17,Pix,668.43,33.42,8.70
+744-02-5987,Assaí,Taguatinga,Membro,Utensílios paraCasa,78.38,6.00,1/10/2019,14.16,Pix,470.28,23.51,5.80
+744-09-5786,Big Box,Ceilândia,Normal,Tecnologia,22.01,6.00,1/2/2019,18.5,Dinheiro,132.06,6.60,7.60
+744-16-7898,Big Box,Ceilândia,Normal,Utensílios paraCasa,97.37,10.00,1/15/2019,13.48,Crédito,973.70,48.69,4.90
+744-82-9138,Carrefour,Sobradinho,Normal,Acessórios,86.13,2.00,2/7/2019,17.59,Dinheiro,172.26,8.61,8.20
+745-71-3520,Assaí,Taguatinga,Membro,Tecnologia,25.22,7.00,2/4/2019,10.23,Dinheiro,176.54,8.83,8.20
+745-74-0715,Assaí,Taguatinga,Normal,Tecnologia,58.03,2.00,3/10/2019,20.46,Pix,116.06,5.80,8.80
+746-04-1077,Big Box,Ceilândia,Membro,Alimentos e Bedidas,84.63,10.00,1/1/2019,11.36,Crédito,846.30,42.32,9.00
+746-19-0921,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,21.58,1.00,2/9/2019,10.02,Pix,21.58,01.08,7.20
+746-54-5508,Assaí,Taguatinga,Normal,Utensílios paraCasa,21.52,6.00,1/17/2019,12.48,Crédito,129.12,6.46,9.40
+746-68-6593,Carrefour,Sobradinho,Membro,Esportes,87.16,2.00,1/11/2019,14.29,Crédito,174.32,8.72,9.70
+746-94-0204,Assaí,Taguatinga,Normal,Acessórios,83.24,9.00,1/29/2019,11.56,Crédito,749.16,37.46,7.40
+747-58-7183,Big Box,Ceilândia,Normal,Acessórios,57.27,3.00,2/9/2019,20.31,Pix,171.81,8.59,6.50
+748-45-2862,Assaí,Taguatinga,Membro,Utensílios paraCasa,28.31,4.00,3/7/2019,18.35,Dinheiro,113.24,5.66,8.20
+749-24-1565,Assaí,Taguatinga,Normal,Saúde e Beleza,23.03,9.00,1/3/2019,12.02,Pix,207.27,10.36,7.90
+749-81-8133,Assaí,Taguatinga,Normal,Acessórios,94.67,4.00,3/11/2019,12.04,Dinheiro,378.68,18.93,6.80
+750-57-9686,Carrefour,Sobradinho,Normal,Utensílios paraCasa,45.38,4.00,1/8/2019,13.48,Crédito,181.52,09.08,8.70
+750-67-8428,Assaí,Taguatinga,Membro,Saúde e Beleza,74.69,7.00,1/5/2019,13.08,Pix,522.83,26.14,9.10
+751-15-6198,Big Box,Ceilândia,Normal,Esportes,23.01,6.00,1/12/2019,16.45,Pix,138.06,6.90,7.90
+751-41-9720,Carrefour,Sobradinho,Normal,Utensílios paraCasa,97.50,10.00,1/12/2019,16.18,Pix,975.00,48.75,8.00
+751-69-0068,Carrefour,Sobradinho,Normal,Esportes,99.24,9.00,3/19/2019,19.09,Pix,893.16,44.66,9.00
+752-23-3760,Big Box,Ceilândia,Membro,Esportes,64.08,7.00,2/19/2019,19.29,Crédito,448.56,22.43,7.30
+755-12-3214,Carrefour,Sobradinho,Membro,Acessórios,44.22,5.00,3/5/2019,17.07,Crédito,221.10,11.06,8.60
+756-01-7507,Carrefour,Sobradinho,Normal,Saúde e Beleza,20.38,5.00,1/22/2019,18.56,Dinheiro,101.90,5.10,6.00
+756-49-0168,Assaí,Taguatinga,Membro,Acessórios,19.70,1.00,2/8/2019,11.39,Pix,19.70,0.99,9.50
+756-93-1854,Carrefour,Sobradinho,Membro,Acessórios,83.35,2.00,2/2/2019,14.05,Crédito,166.70,8.34,9.50
+759-29-9521,Assaí,Taguatinga,Membro,Acessórios,48.96,9.00,3/4/2019,11.27,Dinheiro,440.64,22.03,8.00
+759-98-4285,Carrefour,Sobradinho,Membro,Saúde e Beleza,85.87,7.00,2/27/2019,19.01,Crédito,601.09,30.05,8.00
+760-27-5490,Carrefour,Sobradinho,Normal,Acessórios,15.62,8.00,1/20/2019,20.37,Pix,124.96,6.25,9.10
+760-53-9233,Assaí,Taguatinga,Membro,Acessórios,41.28,3.00,3/26/2019,18.37,Crédito,123.84,6.19,8.50
+760-54-1821,Big Box,Ceilândia,Normal,Utensílios paraCasa,13.59,9.00,3/15/2019,10.26,Dinheiro,122.31,6.12,5.80
+760-90-2357,Assaí,Taguatinga,Membro,Tecnologia,74.51,6.00,3/20/2019,15.08,Pix,447.06,22.35,5.00
+761-49-0439,Big Box,Ceilândia,Membro,Tecnologia,12.10,8.00,1/19/2019,10.17,Pix,96.80,4.84,8.60
+764-44-8999,Big Box,Ceilândia,Normal,Saúde e Beleza,14.76,2.00,2/18/2019,14.42,Pix,29.52,1.48,4.30
+765-26-6951,Assaí,Taguatinga,Normal,Esportes,72.61,6.00,1/1/2019,10.39,Crédito,435.66,21.78,6.90
+766-85-7061,Big Box,Ceilândia,Normal,Saúde e Beleza,87.87,10.00,3/29/2019,10.25,Pix,878.70,43.94,5.10
+767-05-1286,Carrefour,Sobradinho,Membro,Utensílios paraCasa,83.77,6.00,1/23/2019,12.1,Pix,502.62,25.13,5.40
+767-54-1907,Big Box,Ceilândia,Membro,Acessórios,29.56,5.00,2/13/2019,16.59,Dinheiro,147.80,7.39,6.90
+767-97-4650,Big Box,Ceilândia,Membro,Esportes,64.83,2.00,1/8/2019,11.59,Crédito,129.66,6.48,8.00
+770-42-8960,Big Box,Ceilândia,Normal,Alimentos e Bedidas,21.12,8.00,1/1/2019,19.31,Dinheiro,168.96,8.45,6.30
+775-72-1988,Big Box,Ceilândia,Normal,Utensílios paraCasa,73.28,5.00,1/24/2019,15.05,Pix,366.40,18.32,8.40
+776-68-1096,Big Box,Ceilândia,Normal,Utensílios paraCasa,44.12,3.00,3/18/2019,13.45,Crédito,132.36,6.62,7.90
+777-67-2495,Big Box,Ceilândia,Normal,Utensílios paraCasa,68.97,3.00,2/22/2019,11.26,Pix,206.91,10.35,8.70
+777-82-7220,Big Box,Ceilândia,Membro,Utensílios paraCasa,30.12,8.00,3/3/2019,13.01,Dinheiro,240.96,12.05,7.70
+778-34-2523,Assaí,Taguatinga,Membro,Tecnologia,48.62,8.00,1/24/2019,10.57,Dinheiro,388.96,19.45,5.00
+778-71-5554,Carrefour,Sobradinho,Membro,Acessórios,15.43,1.00,1/25/2019,15.46,Crédito,15.43,0.77,6.10
+778-89-7974,Carrefour,Sobradinho,Normal,Saúde e Beleza,70.21,6.00,3/30/2019,14.58,Dinheiro,421.26,21.06,7.40
+779-06-0012,Carrefour,Sobradinho,Membro,Utensílios paraCasa,88.61,1.00,1/19/2019,10.21,Dinheiro,88.61,4.43,7.70
+779-42-2410,Big Box,Ceilândia,Membro,Alimentos e Bedidas,57.74,3.00,2/20/2019,13.06,Pix,173.22,8.66,7.70
+781-84-8059,Carrefour,Sobradinho,Normal,Acessórios,60.74,7.00,1/18/2019,16.23,Pix,425.18,21.26,5.00
+782-95-9291,Assaí,Taguatinga,Membro,Alimentos e Bedidas,92.29,5.00,2/20/2019,15.55,Crédito,461.45,23.07,9.00
+783-09-1637,Big Box,Ceilândia,Normal,Esportes,67.43,5.00,3/6/2019,18.13,Pix,337.15,16.86,6.30
+784-08-0310,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,21.04,4.00,1/13/2019,13.58,Dinheiro,84.16,4.21,7.60
+784-21-9238,Carrefour,Sobradinho,Membro,Esportes,10.17,1.00,2/7/2019,14.15,Dinheiro,10.17,0.51,5.90
+785-13-7708,Big Box,Ceilândia,Normal,Alimentos e Bedidas,73.06,7.00,1/14/2019,19.06,Crédito,511.42,25.57,4.20
+785-96-0615,Big Box,Ceilândia,Membro,Tecnologia,35.74,8.00,2/17/2019,15.28,Pix,285.92,14.30,4.90
+786-94-2700,Assaí,Taguatinga,Membro,Alimentos e Bedidas,80.62,6.00,2/28/2019,20.18,Dinheiro,483.72,24.19,9.10
+787-15-1757,Carrefour,Sobradinho,Membro,Saúde e Beleza,44.07,4.00,2/18/2019,16.28,Pix,176.28,8.81,8.40
+787-56-0757,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,80.36,4.00,2/23/2019,18.45,Crédito,321.44,16.07,8.30
+787-87-2010,Assaí,Taguatinga,Membro,Saúde e Beleza,55.50,4.00,1/20/2019,15.48,Crédito,222.00,11.10,6.60
+788-07-8452,Carrefour,Sobradinho,Membro,Utensílios paraCasa,24.24,7.00,1/27/2019,17.38,Pix,169.68,8.48,9.40
+788-21-5741,Assaí,Taguatinga,Normal,Acessórios,45.38,3.00,2/17/2019,13.34,Crédito,136.14,6.81,7.20
+789-23-8625,Big Box,Ceilândia,Membro,Acessórios,93.22,3.00,1/24/2019,11.45,Dinheiro,279.66,13.98,7.20
+790-29-1172,Big Box,Ceilândia,Normal,Alimentos e Bedidas,57.34,3.00,3/10/2019,18.59,Crédito,172.02,8.60,7.90
+790-38-4466,Carrefour,Sobradinho,Normal,Saúde e Beleza,10.99,5.00,1/23/2019,10.18,Crédito,54.95,2.75,9.30
+793-10-3222,Big Box,Ceilândia,Membro,Saúde e Beleza,41.06,6.00,3/5/2019,13.3,Crédito,246.36,12.32,8.30
+794-32-2436,Big Box,Ceilândia,Membro,Tecnologia,55.67,2.00,3/27/2019,15.08,Pix,111.34,5.57,6.00
+794-42-3736,Big Box,Ceilândia,Normal,Alimentos e Bedidas,33.33,2.00,1/26/2019,14.41,Crédito,66.66,3.33,6.40
+795-49-7276,Assaí,Taguatinga,Normal,Acessórios,37.15,4.00,3/23/2019,18.59,Pix,148.60,7.43,8.30
+796-12-2025,Carrefour,Sobradinho,Normal,Acessórios,62.12,10.00,2/11/2019,16.19,Dinheiro,621.20,31.06,5.90
+796-32-9050,Assaí,Taguatinga,Normal,Alimentos e Bedidas,51.28,6.00,1/19/2019,16.31,Dinheiro,307.68,15.38,6.50
+797-88-0493,Assaí,Taguatinga,Normal,Saúde e Beleza,64.27,4.00,3/26/2019,13.54,Dinheiro,257.08,12.85,7.70
+799-71-1548,Assaí,Taguatinga,Membro,Tecnologia,77.72,4.00,1/7/2019,16.11,Crédito,310.88,15.54,8.80
+800-09-8606,Assaí,Taguatinga,Membro,Utensílios paraCasa,87.37,5.00,1/29/2019,19.45,Dinheiro,436.85,21.84,6.60
+801-88-0346,Carrefour,Sobradinho,Normal,Acessórios,76.06,3.00,1/5/2019,20.3,Crédito,228.18,11.41,9.80
+802-43-8934,Assaí,Taguatinga,Normal,Utensílios paraCasa,18.28,1.00,3/22/2019,15.05,Crédito,18.28,0.91,8.30
+802-70-5316,Assaí,Taguatinga,Membro,Esportes,92.13,6.00,3/6/2019,20.34,Dinheiro,552.78,27.64,8.30
+803-17-8013,Assaí,Taguatinga,Membro,Utensílios paraCasa,88.79,8.00,2/17/2019,17.09,Dinheiro,710.32,35.52,4.10
+803-83-5989,Carrefour,Sobradinho,Normal,Utensílios paraCasa,55.73,6.00,2/24/2019,10.55,Pix,334.38,16.72,7.00
+804-38-3935,Assaí,Taguatinga,Membro,Tecnologia,93.78,3.00,1/30/2019,11.32,Crédito,281.34,14.07,5.90
+805-86-0265,Assaí,Taguatinga,Normal,Utensílios paraCasa,93.96,9.00,3/20/2019,11.32,Dinheiro,845.64,42.28,9.80
+807-14-7833,Assaí,Taguatinga,Membro,Tecnologia,17.42,10.00,2/22/2019,12.3,Pix,174.20,8.71,7.00
+807-34-3742,Assaí,Taguatinga,Normal,Acessórios,52.38,1.00,3/26/2019,19.44,Dinheiro,52.38,2.62,5.80
+808-65-0703,Carrefour,Sobradinho,Normal,Utensílios paraCasa,35.47,4.00,3/14/2019,17.22,Crédito,141.88,07.09,6.90
+809-46-1866,Assaí,Taguatinga,Normal,Saúde e Beleza,58.15,4.00,1/23/2019,17.44,Dinheiro,232.60,11.63,8.40
+809-69-9497,Assaí,Taguatinga,Normal,Utensílios paraCasa,45.68,10.00,1/19/2019,19.3,Pix,456.80,22.84,5.70
+810-60-6344,Carrefour,Sobradinho,Normal,Tecnologia,40.86,8.00,2/7/2019,14.38,Crédito,326.88,16.34,6.50
+811-03-8790,Assaí,Taguatinga,Normal,Tecnologia,45.48,10.00,3/1/2019,10.22,Crédito,454.80,22.74,4.80
+811-35-1094,Big Box,Ceilândia,Membro,Tecnologia,50.45,6.00,2/6/2019,15.16,Crédito,302.70,15.14,8.90
+815-04-6282,Carrefour,Sobradinho,Membro,Esportes,64.97,5.00,2/8/2019,12.52,Crédito,324.85,16.24,6.50
+815-11-1168,Assaí,Taguatinga,Membro,Alimentos e Bedidas,99.78,5.00,3/9/2019,19.09,Dinheiro,498.90,24.95,5.40
+816-57-2053,Assaí,Taguatinga,Normal,Esportes,60.87,2.00,3/9/2019,12.37,Pix,121.74,06.09,8.70
+816-72-8853,Assaí,Taguatinga,Membro,Esportes,27.93,5.00,1/29/2019,15.48,Dinheiro,139.65,6.98,5.90
+817-48-8732,Assaí,Taguatinga,Membro,Utensílios paraCasa,72.35,10.00,1/20/2019,15.55,Dinheiro,723.50,36.18,5.40
+817-69-8206,Big Box,Ceilândia,Normal,Tecnologia,99.73,9.00,3/2/2019,19.42,Crédito,897.57,44.88,6.50
+821-07-3596,Carrefour,Sobradinho,Normal,Acessórios,16.45,4.00,3/7/2019,14.53,Pix,65.80,3.29,5.60
+821-14-9046,Big Box,Ceilândia,Membro,Acessórios,17.48,6.00,1/18/2019,15.04,Crédito,104.88,5.24,6.10
+824-88-3614,Carrefour,Sobradinho,Normal,Saúde e Beleza,34.31,8.00,1/25/2019,15,Pix,274.48,13.72,5.70
+825-94-5922,Big Box,Ceilândia,Normal,Esportes,25.31,2.00,3/2/2019,19.26,Pix,50.62,2.53,7.20
+826-58-8051,Big Box,Ceilândia,Normal,Utensílios paraCasa,62.19,4.00,1/6/2019,19.46,Pix,248.76,12.44,4.30
+827-26-2100,Assaí,Taguatinga,Membro,Utensílios paraCasa,33.84,9.00,3/21/2019,16.21,Pix,304.56,15.23,8.80
+827-44-5872,Big Box,Ceilândia,Membro,Alimentos e Bedidas,54.36,10.00,2/7/2019,11.28,Crédito,543.60,27.18,6.10
+827-77-7633,Assaí,Taguatinga,Normal,Esportes,98.09,9.00,2/17/2019,19.41,Dinheiro,882.81,44.14,9.30
+828-46-6863,Assaí,Taguatinga,Membro,Alimentos e Bedidas,98.53,6.00,1/23/2019,11.22,Crédito,591.18,29.56,4.00
+828-61-5674,Assaí,Taguatinga,Membro,Esportes,44.02,10.00,3/20/2019,19.57,Crédito,440.20,22.01,9.60
+829-34-3910,Assaí,Taguatinga,Normal,Saúde e Beleza,71.38,10.00,3/29/2019,19.21,Dinheiro,713.80,35.69,5.70
+829-49-1914,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,78.31,10.00,3/5/2019,16.24,Pix,783.10,39.16,6.60
+830-58-2383,Big Box,Ceilândia,Normal,Utensílios paraCasa,31.75,4.00,2/8/2019,15.26,Dinheiro,127.00,6.35,8.60
+831-07-6050,Assaí,Taguatinga,Normal,Tecnologia,32.71,5.00,3/19/2019,11.3,Crédito,163.55,8.18,9.90
+831-64-0259,Big Box,Ceilândia,Normal,Acessórios,39.75,5.00,2/22/2019,10.43,Pix,198.75,9.94,9.60
+831-81-6575,Big Box,Ceilândia,Membro,Tecnologia,75.59,9.00,2/23/2019,11.12,Dinheiro,680.31,34.02,8.00
+832-51-6761,Assaí,Taguatinga,Normal,Alimentos e Bedidas,33.88,8.00,1/19/2019,20.29,Pix,271.04,13.55,9.60
+834-25-9262,Carrefour,Sobradinho,Normal,Acessórios,81.68,4.00,1/6/2019,12.12,Dinheiro,326.72,16.34,9.10
+834-45-5519,Big Box,Ceilândia,Normal,Tecnologia,43.00,4.00,1/31/2019,20.48,Pix,172.00,8.60,7.60
+834-61-8124,Assaí,Taguatinga,Normal,Tecnologia,51.69,7.00,1/26/2019,18.22,Dinheiro,361.83,18.09,5.50
+834-83-1826,Big Box,Ceilândia,Membro,Utensílios paraCasa,82.04,5.00,2/25/2019,17.16,Crédito,410.20,20.51,7.60
+835-16-0096,Carrefour,Sobradinho,Membro,Esportes,14.70,5.00,3/24/2019,13.48,Pix,73.50,3.68,8.50
+836-82-5858,Big Box,Ceilândia,Membro,Saúde e Beleza,69.37,9.00,1/26/2019,19.14,Pix,624.33,31.22,4.00
+837-55-7229,Big Box,Ceilândia,Normal,Acessórios,47.44,1.00,2/22/2019,18.19,Crédito,47.44,2.37,6.80
+838-02-1821,Carrefour,Sobradinho,Membro,Utensílios paraCasa,12.73,2.00,2/22/2019,12.1,Crédito,25.46,1.27,5.20
+838-78-4295,Carrefour,Sobradinho,Normal,Saúde e Beleza,33.47,2.00,2/10/2019,15.43,Pix,66.94,3.35,6.70
+840-19-2096,Carrefour,Sobradinho,Membro,Tecnologia,87.91,5.00,3/14/2019,18.1,Pix,439.55,21.98,4.40
+840-76-5966,Assaí,Taguatinga,Membro,Esportes,12.76,2.00,1/8/2019,18.06,Pix,25.52,1.28,7.80
+841-18-8232,Big Box,Ceilândia,Normal,Alimentos e Bedidas,71.20,1.00,1/5/2019,20.4,Crédito,71.20,3.56,9.20
+841-35-6630,Carrefour,Sobradinho,Normal,Tecnologia,75.91,6.00,3/9/2019,18.21,Dinheiro,455.46,22.77,8.70
+842-29-4695,Carrefour,Sobradinho,Membro,Esportes,17.14,7.00,1/16/2019,12.07,Crédito,119.98,6.00,7.90
+842-40-8179,Big Box,Ceilândia,Membro,Alimentos e Bedidas,77.20,10.00,2/11/2019,10.38,Crédito,772.00,38.60,5.60
+843-01-4703,Big Box,Ceilândia,Membro,Utensílios paraCasa,35.38,9.00,1/5/2019,19.5,Crédito,318.42,15.92,9.60
+843-73-4724,Assaí,Taguatinga,Normal,Acessórios,74.10,1.00,1/25/2019,11.05,Dinheiro,74.10,3.71,9.20
+845-51-0542,Big Box,Ceilândia,Membro,Alimentos e Bedidas,46.55,9.00,2/2/2019,15.34,Pix,418.95,20.95,6.40
+845-94-6841,Carrefour,Sobradinho,Membro,Alimentos e Bedidas,72.88,9.00,1/8/2019,19.38,Dinheiro,655.92,32.80,4.00
+846-10-0341,Assaí,Taguatinga,Normal,Acessórios,42.57,7.00,1/6/2019,11.51,Dinheiro,297.99,14.90,6.80
+847-38-7188,Big Box,Ceilândia,Normal,Alimentos e Bedidas,96.68,3.00,1/26/2019,19.56,Pix,290.04,14.50,6.40
+848-07-1692,Big Box,Ceilândia,Normal,Saúde e Beleza,57.22,2.00,1/12/2019,17.13,Pix,114.44,5.72,8.30
+848-24-9445,Carrefour,Sobradinho,Membro,Saúde e Beleza,43.70,2.00,3/26/2019,18.03,Dinheiro,87.40,4.37,4.90
+848-42-2560,Assaí,Taguatinga,Normal,Acessórios,81.91,2.00,3/5/2019,17.43,Dinheiro,163.82,8.19,7.80
+848-62-7243,Assaí,Taguatinga,Normal,Saúde e Beleza,24.89,9.00,3/15/2019,15.36,Dinheiro,224.01,11.20,7.40
+848-95-6252,Carrefour,Sobradinho,Membro,Utensílios paraCasa,86.27,1.00,2/20/2019,13.24,Pix,86.27,4.31,7.00
+849-09-3807,Assaí,Taguatinga,Membro,Acessórios,88.34,7.00,2/18/2019,13.28,Dinheiro,618.38,30.92,6.60
+850-41-9669,Assaí,Taguatinga,Normal,Tecnologia,75.06,9.00,3/19/2019,13.25,Pix,675.54,33.78,6.20
+851-28-6367,Assaí,Taguatinga,Membro,Esportes,15.50,10.00,3/23/2019,10.55,Pix,155.00,7.75,8.00
+851-98-3555,Big Box,Ceilândia,Normal,Saúde e Beleza,82.88,5.00,3/24/2019,14.08,Crédito,414.40,20.72,6.60
+852-62-7105,Big Box,Ceilândia,Normal,Acessórios,83.25,10.00,1/12/2019,11.25,Crédito,832.50,41.63,4.40
+852-82-2749,Assaí,Taguatinga,Normal,Esportes,64.59,4.00,1/6/2019,13.35,Pix,258.36,12.92,9.30
+853-23-2453,Big Box,Ceilândia,Membro,Saúde e Beleza,75.74,4.00,2/14/2019,14.35,Dinheiro,302.96,15.15,7.60
+856-22-8149,Assaí,Taguatinga,Normal,Utensílios paraCasa,25.29,1.00,3/23/2019,10.13,Pix,25.29,1.26,6.10
+856-66-2701,Assaí,Taguatinga,Membro,Utensílios paraCasa,53.30,3.00,1/25/2019,14.19,Pix,159.90,8.00,7.50
+857-16-3520,Assaí,Taguatinga,Membro,Acessórios,71.46,7.00,3/28/2019,16.06,Pix,500.22,25.01,4.50
+857-67-9057,Big Box,Ceilândia,Normal,Tecnologia,22.95,10.00,2/6/2019,19.2,Pix,229.50,11.48,8.20
+859-71-0933,Carrefour,Sobradinho,Membro,Esportes,15.49,2.00,1/16/2019,15.1,Dinheiro,30.98,1.55,6.30
+859-97-6048,Carrefour,Sobradinho,Membro,Tecnologia,84.25,2.00,3/26/2019,14.13,Crédito,168.50,8.43,5.30
+860-73-6466,Assaí,Taguatinga,Membro,Esportes,39.47,2.00,3/2/2019,16.16,Crédito,78.94,3.95,5.00
+860-79-0874,Carrefour,Sobradinho,Membro,Acessórios,99.30,10.00,2/15/2019,14.53,Crédito,993.00,49.65,6.60
+861-77-0145,Carrefour,Sobradinho,Membro,Tecnologia,81.97,10.00,3/3/2019,14.3,Dinheiro,819.70,40.99,9.20
+862-17-9201,Big Box,Ceilândia,Normal,Alimentos e Bedidas,84.05,6.00,1/29/2019,10.48,Crédito,504.30,25.22,7.70
+862-29-5914,Carrefour,Sobradinho,Normal,Esportes,22.38,1.00,1/30/2019,17.08,Crédito,22.38,1.12,8.60
+862-59-8517,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,90.24,6.00,1/27/2019,11.17,Dinheiro,541.44,27.07,6.20
+864-24-7918,Assaí,Taguatinga,Membro,Esportes,24.49,10.00,2/22/2019,15.15,Dinheiro,244.90,12.25,8.10
+865-41-9075,Assaí,Taguatinga,Normal,Alimentos e Bedidas,11.53,7.00,1/28/2019,17.35,Dinheiro,80.71,04.04,8.10
+865-92-6136,Assaí,Taguatinga,Normal,Alimentos e Bedidas,52.75,3.00,3/23/2019,10.16,Pix,158.25,7.91,9.30
+866-05-7563,Big Box,Ceilândia,Membro,Tecnologia,81.40,3.00,2/9/2019,19.43,Dinheiro,244.20,12.21,4.80
+866-70-2814,Big Box,Ceilândia,Normal,Tecnologia,52.79,10.00,2/25/2019,11.58,Pix,527.90,26.40,10.00
+866-99-7614,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,89.20,10.00,2/11/2019,15.42,Crédito,892.00,44.60,4.40
+867-47-1948,Carrefour,Sobradinho,Normal,Utensílios paraCasa,15.80,10.00,1/9/2019,12.07,Dinheiro,158.00,7.90,7.80
+868-06-0466,Assaí,Taguatinga,Membro,Tecnologia,69.58,9.00,2/19/2019,19.38,Crédito,626.22,31.31,7.80
+868-52-7573,Big Box,Ceilândia,Normal,Alimentos e Bedidas,99.69,5.00,1/14/2019,12.09,Dinheiro,498.45,24.92,9.90
+868-81-1752,Big Box,Ceilândia,Normal,Utensílios paraCasa,22.02,9.00,2/7/2019,18.48,Dinheiro,198.18,9.91,6.80
+869-11-3082,Big Box,Ceilândia,Membro,Saúde e Beleza,96.16,4.00,1/27/2019,20.03,Crédito,384.64,19.23,8.40
+870-54-3162,Assaí,Taguatinga,Normal,Esportes,32.25,5.00,1/27/2019,13.26,Dinheiro,161.25,08.06,9.00
+870-72-4431,Carrefour,Sobradinho,Normal,Saúde e Beleza,99.19,6.00,1/21/2019,14.42,Crédito,595.14,29.76,5.50
+870-76-1733,Assaí,Taguatinga,Membro,Alimentos e Bedidas,14.23,5.00,2/1/2019,10.08,Crédito,71.15,3.56,4.40
+871-39-9221,Carrefour,Sobradinho,Normal,Tecnologia,12.45,6.00,2/9/2019,13.11,Dinheiro,74.70,3.74,4.10
+871-79-8483,Big Box,Ceilândia,Normal,Acessórios,94.13,5.00,2/25/2019,19.39,Crédito,470.65,23.53,4.80
+873-14-6353,Assaí,Taguatinga,Membro,Alimentos e Bedidas,24.82,7.00,2/16/2019,10.33,Crédito,173.74,8.69,7.10
+873-51-0671,Assaí,Taguatinga,Membro,Esportes,21.98,7.00,1/10/2019,16.42,Pix,153.86,7.69,5.10
+873-95-4984,Big Box,Ceilândia,Membro,Saúde e Beleza,76.90,7.00,2/15/2019,20.21,Dinheiro,538.30,26.92,7.70
+875-31-8302,Big Box,Ceilândia,Normal,Esportes,93.38,1.00,1/3/2019,13.07,Dinheiro,93.38,4.67,9.60
+875-46-5808,Big Box,Ceilândia,Membro,Saúde e Beleza,25.90,10.00,2/6/2019,14.51,Pix,259.00,12.95,8.70
+877-22-3308,Assaí,Taguatinga,Membro,Saúde e Beleza,15.87,10.00,3/13/2019,16.4,Dinheiro,158.70,7.94,5.80
+878-30-2331,Carrefour,Sobradinho,Membro,Esportes,54.55,10.00,3/2/2019,11.22,Crédito,545.50,27.28,7.10
+880-35-0356,Assaí,Taguatinga,Membro,Esportes,75.20,3.00,2/5/2019,11.51,Pix,225.60,11.28,4.80
+880-46-5796,Assaí,Taguatinga,Membro,Esportes,76.92,10.00,3/17/2019,19.53,Pix,769.20,38.46,5.60
+881-41-7302,Carrefour,Sobradinho,Normal,Acessórios,64.99,1.00,1/26/2019,10.06,Crédito,64.99,3.25,4.50
+882-40-4577,Assaí,Taguatinga,Membro,Esportes,67.26,4.00,1/19/2019,15.28,Crédito,269.04,13.45,8.00
+883-17-4236,Carrefour,Sobradinho,Normal,Esportes,14.39,2.00,3/2/2019,19.44,Crédito,28.78,1.44,7.20
+883-69-1285,Big Box,Ceilândia,Membro,Acessórios,49.92,2.00,3/6/2019,11.55,Crédito,99.84,4.99,7.00
+884-80-6021,Assaí,Taguatinga,Membro,Tecnologia,73.47,10.00,3/23/2019,13.14,Pix,734.70,36.74,9.50
+885-17-6250,Assaí,Taguatinga,Normal,Saúde e Beleza,79.74,1.00,3/6/2019,10.36,Pix,79.74,3.99,7.30
+885-56-0389,Carrefour,Sobradinho,Membro,Acessórios,52.35,1.00,2/12/2019,17.49,Dinheiro,52.35,2.62,4.00
+886-18-2897,Assaí,Taguatinga,Normal,Alimentos e Bedidas,56.56,5.00,3/22/2019,19.06,Crédito,282.80,14.14,4.50
+886-54-6089,Assaí,Taguatinga,Normal,Utensílios paraCasa,11.43,6.00,1/15/2019,17.24,Dinheiro,68.58,3.43,7.70
+886-77-9084,Carrefour,Sobradinho,Normal,Tecnologia,71.89,8.00,2/19/2019,11.33,Pix,575.12,28.76,5.50
+887-42-0517,Carrefour,Sobradinho,Normal,Esportes,83.14,7.00,1/10/2019,10.31,Crédito,581.98,29.10,6.60
+888-02-0338,Assaí,Taguatinga,Normal,Tecnologia,26.23,9.00,1/25/2019,20.24,Pix,236.07,11.80,5.90
+889-04-9723,Big Box,Ceilândia,Membro,Alimentos e Bedidas,89.14,4.00,1/7/2019,12.2,Crédito,356.56,17.83,7.80
+891-01-7034,Big Box,Ceilândia,Normal,Tecnologia,74.71,6.00,1/1/2019,19.07,Dinheiro,448.26,22.41,6.70
+891-58-8335,Big Box,Ceilândia,Membro,Esportes,29.61,7.00,3/11/2019,15.53,Dinheiro,207.27,10.36,6.50
+892-05-6689,Assaí,Taguatinga,Normal,Utensílios paraCasa,28.32,5.00,3/11/2019,13.28,Pix,141.60,07.08,6.20
+894-41-5205,Carrefour,Sobradinho,Normal,Alimentos e Bedidas,43.18,8.00,1/19/2019,19.39,Crédito,345.44,17.27,8.30
+895-03-6665,Big Box,Ceilândia,Normal,Acessórios,36.51,9.00,2/16/2019,10.52,Dinheiro,328.59,16.43,4.20
+895-66-0685,Big Box,Ceilândia,Membro,Alimentos e Bedidas,18.08,3.00,3/5/2019,19.46,Pix,54.24,2.71,8.00
+896-34-0956,Assaí,Taguatinga,Normal,Acessórios,21.32,1.00,1/26/2019,12.43,Dinheiro,21.32,01.07,5.90
+898-04-2717,Assaí,Taguatinga,Normal,Acessórios,76.40,9.00,3/19/2019,15.49,Pix,687.60,34.38,7.50
