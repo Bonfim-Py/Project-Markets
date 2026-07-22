@@ -3,7 +3,7 @@ Projeto visa simular um possível cliente/empresário que trabalha na parte econ
 
 ## Estruturação
 
-'''
+'''bash
 -> Data_frame_Market.csv
 -> Início.py
 -> Perg_1.py
